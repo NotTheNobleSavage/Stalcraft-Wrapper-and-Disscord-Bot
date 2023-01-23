@@ -25,40 +25,40 @@ def get_regions():
 #Again returns a Json Object with the history of an item_id you give it https://eapi.stalcraft.net/reference#/paths/~1%7Bregion%7D~1auction~1%7Bitem%7D~1history/get
 #Can be giving extra query params such as offset and limit 
 def get_auction_history(region,item_id):
-    url = 'https://eapi.stalcraft.net/'+region+'/auction/'+item_id+'/history'
-    headers = {"Authorization": "Bearer " + AppAuth}
+    url = f'https://eapi.stalcraft.net/{region}/auction/{item_id}/history'
+    headers = {"Authorization": f"Bearer {AppAuth}"}
     response = requests.get(url, headers=headers)
     response = response.json()
     return response
 
 #Gets the current lots of an item and gives back a Json Object https://eapi.stalcraft.net/reference#/paths/~1%7Bregion%7D~1auction~1%7Bitem%7D~1lots/get
 def get_auction_lots(region,item_id):
-    url = 'https://eapi.stalcraft.net/'+region+'/auction/'+item_id+'/lots'
-    headers = {"Authorization": "Bearer " + AppAuth}
+    url = f'https://eapi.stalcraft.net/{region}/auction/{item_id}/lots'
+    headers = {"Authorization": f"Bearer {AppAuth}"}
     response = requests.get(url, headers=headers)
     response = response.json()
     return response
 
 #Give a Json Object of the past emission (if an emisssion is currently happerning will also give a currentStart value can be used to check if one is happening) https://eapi.stalcraft.net/reference#/paths/~1%7Bregion%7D~1emission/get
 def get_emission(region):
-    url = 'https://eapi.stalcraft.net/'+region+'/emission'
-    headers = {"Authorization": "Bearer " + AppAuth}
+    url = f'https://eapi.stalcraft.net/{region}/emission'
+    headers = {"Authorization": f"Bearer {AppAuth}"}
     response = requests.get(url, headers=headers)
     response = response.json()
     return response
 
 #Clans have not been implemented in any server other then RU but returns info about a clan using the clan id https://eapi.stalcraft.net/reference#/paths/~1%7Bregion%7D~1clan~1%7Bclan-id%7D~1info/get
 def get_clan_info(region,clan_id):
-    url = 'https://eapi.stalcraft.net/'+region+'/clan/'+clan_id+'/info'
-    headers = {"Authorization": "Bearer " + AppAuth}
+    url = f'https://eapi.stalcraft.net/{region}/clan/{clan_id}/info'
+    headers = {"Authorization": f"Bearer {AppAuth}"}
     response = requests.get(url, headers=headers)
     response = response.json()
     return response
 
 #Lists all the clans in a region and again returns a Json Object
 def get_clan_list(region):
-    url = 'https://eapi.stalcraft.net/'+region+'/clans'
-    headers = {"Authorization": "Bearer " + AppAuth}
+    url = f'https://eapi.stalcraft.net/{region}/clans'
+    headers = {"Authorization": f"Bearer {AppAuth}"}
     response = requests.get(url, headers=headers)
     response = response.json()
     return response
