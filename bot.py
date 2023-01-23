@@ -7,12 +7,19 @@ import wrapper
 
 #Python modules
 from datetime import datetime
+import asyncio
+
 bot = discord.Bot()
 
 #Basic are we ready
 @bot.event
 async def on_ready():
     print(f"{bot.user} is ready and online!")
+
+@bot.event
+async def on_ready():
+    print(f"{bot.user} is ready and online!")
+
 
 #Main emisssion command
 @bot.command(description="Checks the last emission")
@@ -36,12 +43,12 @@ async def emission(ctx, region: discord.Option(str)):
         #Just a check to see if hour is 0 and print a diff message dont want it aying 0 hours 10 min just looks sad
         if hours == 0:
             #We love discord embeds
-            embed=discord.Embed(title="Emission Checker", description="It has been "+str(minutes)+" Minutes and "+str(seconds)+" Seconds Since the Last Emission")
+            embed=discord.Embed(title="Emission Checker", description=f"It has been {minutes} Minutes and {seconds} Seconds Since the Last Emission")
             embed.add_field(name="Last Emission", value=str(emission_time), inline=False)
             await ctx.respond(embed=embed)
         else:
-            embed=discord.Embed(title="Emission Checker", description="It has been "+str(hours)+" Hours, "+str(minutes)+" Minutes and "+str(seconds)+" Seconds Since the Last Emission")
-            embed.add_field(name="Last Emission", value=str(emission_time) + " (UTC) ", inline=False)
+            embed=discord.Embed(title="Emission Checker", description=f"It has been {hours} Hours, {minutes} Minutes and {seconds} Seconds Since the Last Emission")
+            embed.add_field(name="Last Emission", value=f"{emission_time} (UTC) ", inline=False)
             await ctx.respond(embed=embed)
     else:
         #Remember that region check yea this is where we tell the user
@@ -50,4 +57,3 @@ async def emission(ctx, region: discord.Option(str)):
 
 #oh and we gotta run the bot i nearly forgot
 bot.run(auth.token)
-
