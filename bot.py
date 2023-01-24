@@ -7,19 +7,38 @@ import wrapper
 
 #Python modules
 from datetime import datetime
+from datetime import timezone
 import asyncio
 
 bot = discord.Bot()
+
+#Code to check if the emission is happaning
+regions = ['RU',"EU","NA","SEA"]
+previous_emission = {region: None for region in regions}
+async def check_for_emission():
+    #We love all regions
+    for region in regions:
+        emission = wrapper.get_emission(region)
+        if previous_emission[region] != emission['previousStart'] and 'currentStart' in emission:
+            previous_emission[region] = emission['previousStart']
+            emission_time = datetime.strptime(emission['currentStart'], '%Y-%m-%dT%H:%M:%SZ')
+            emission_time = emission_time.replace(tzinfo=timezone.utc).timestamp()
+            emission_time = int(emission_time)
+
+            channel = bot.get_channel(563586646423896088)
+            embed=discord.Embed(title="Emission Checker", description=f"A Emission is occurring in: \n {region}")
+            embed.add_field(name="Start of Emission", value=f"<t:{emission_time}>", inline=True)
+            embed.set_footer(text="Powerd by NobleNet ")
+            await channel.send(embed=embed)
 
 #Basic are we ready
 @bot.event
 async def on_ready():
     print(f"{bot.user} is ready and online!")
-
-@bot.event
-async def on_ready():
-    print(f"{bot.user} is ready and online!")
-
+    #Loops and sleep time
+    while True:
+        await check_for_emission()
+        await asyncio.sleep(10)
 
 #Main emisssion command
 @bot.command(description="Checks the last emission")
@@ -43,12 +62,12 @@ async def emission(ctx, region: discord.Option(str)):
         #Just a check to see if hour is 0 and print a diff message dont want it aying 0 hours 10 min just looks sad
         if hours == 0:
             #We love discord embeds
-            embed=discord.Embed(title="Emission Checker", description=f"It has been {minutes} Minutes and {seconds} Seconds Since the Last Emission")
-            embed.add_field(name="Last Emission", value=str(emission_time), inline=False)
+            embed=discord.Embed(title="Emission Checker", description=f"It has been {minutes} Minutes and {seconds} Seconds Since the Last Emission \n Region: {region}")
+            embed.add_field(name="Last Emission", value=f"<t:{int(emission_time.replace(tzinfo=timezone.utc).timestamp())}>", inline=False)
             await ctx.respond(embed=embed)
         else:
-            embed=discord.Embed(title="Emission Checker", description=f"It has been {hours} Hours, {minutes} Minutes and {seconds} Seconds Since the Last Emission")
-            embed.add_field(name="Last Emission", value=f"{emission_time} (UTC) ", inline=False)
+            embed=discord.Embed(title="Emission Checker", description=f"It has been {hours} Hours, {minutes} Minutes and {seconds} Seconds Since the Last Emission \n Region: {region}")
+            embed.add_field(name="Last Emission", value=f"<t:{int(emission_time.replace(tzinfo=timezone.utc).timestamp())}>", inline=False)
             await ctx.respond(embed=embed)
     else:
         #Remember that region check yea this is where we tell the user
@@ -57,3 +76,4 @@ async def emission(ctx, region: discord.Option(str)):
 
 #oh and we gotta run the bot i nearly forgot
 bot.run(auth.token)
+
