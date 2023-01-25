@@ -9,28 +9,31 @@ import wrapper
 from datetime import datetime
 from datetime import timezone
 import asyncio
+import os
+import json
 
 bot = discord.Bot()
 
 #Code to check if the emission is happaning
 regions = ['RU',"EU","NA","SEA"]
 previous_emission = {region: None for region in regions}
+with open(os.path.normpath('server_config.json'), encoding='utf8') as f:
+    server_options = json.load(f)
 async def check_for_emission():
     #We love all regions
     for region in regions:
         emission = wrapper.get_emission(region)
         if previous_emission[region] != emission['previousStart'] and 'currentStart' in emission:
             previous_emission[region] = emission['previousStart']
-            emission_time = datetime.strptime(emission['currentStart'], '%Y-%m-%dT%H:%M:%SZ')
+            emission_time = datetime.strptime(emission['previousStart'], '%Y-%m-%dT%H:%M:%SZ')
             emission_time = emission_time.replace(tzinfo=timezone.utc).timestamp()
             emission_time = int(emission_time)
-
-            channel = bot.get_channel(563586646423896088)
-            embed=discord.Embed(title="Emission Checker", description=f"A Emission is occurring in: \n {region}")
-            embed.add_field(name="Start of Emission", value=f"<t:{emission_time}>", inline=True)
-            embed.set_footer(text="Powerd by NobleNet ")
-            await channel.send(embed=embed)
-
+            for server in [s for s in server_options['servers'] if s['region'] == region or s['region'] == 'all']:
+                channel = bot.get_channel(int(server['alert_channel']))
+                embed=discord.Embed(title="Emission Checker", description=f"A Emission is occurring in: \n {region}")
+                embed.add_field(name="Start of Emission", value=f"<t:{emission_time}>", inline=True)
+                embed.set_footer(text="Powerd by NobleNet ")
+                await channel.send(embed=embed)
 #Basic are we ready
 @bot.event
 async def on_ready():
