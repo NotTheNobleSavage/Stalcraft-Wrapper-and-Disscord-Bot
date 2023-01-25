@@ -14,6 +14,7 @@ import json
 
 bot = discord.Bot()
 
+
 #Code to check if the emission is happaning
 regions = ["RU","EU","NA","SEA","ALL"]
 emission_times = {region: None for region in regions}
@@ -22,17 +23,20 @@ with open(os.path.normpath('server_config.json'), encoding='utf8') as config_fil
     server_options = json.load(config_file)
 
 async def check_for_emissions():
+    with open(os.path.normpath('server_config.json'), encoding='utf8') as config_file:
+        server_options = json.load(config_file)
+
     for region in regions[:-1]:
-        emission = wrapper.get_emission(region)
+        emission = await wrapper.get_emission(region)
         if emission_times[region] != emission['previousStart'] and 'currentStart' in emission:
             emission_times[region] = emission['previousStart']
             emission_datetime = datetime.strptime(emission['currentStart'], '%Y-%m-%dT%H:%M:%SZ')
             emission_timestamp = emission_datetime.replace(tzinfo=timezone.utc).timestamp()
             for server in server_options['servers']:
-                if server['region'] == region or server['region'] == 'all':
+                if server['region'] == region or server['region'] == 'ALL':
                     channel = bot.get_channel(int(server['alert_channel']))
                     embed = discord.Embed(title="Emission Checker", description=f"A Emission is occurring in: {region}")
-                    embed.add_field(name="Start of Emission", value=f"<t:{emission_timestamp}>", inline=True)
+                    embed.add_field(name="Start of Emission", value=f"<t:{int(emission_timestamp)}>", inline=True)
                     embed.set_footer(text="Powered by NobleNet")
                     await channel.send(embed=embed)
 
@@ -41,9 +45,9 @@ async def check_for_emissions():
 async def on_ready():
     print(f"{bot.user} is ready and online!")
     #Loops and sleep time
-    while True:
-        await check_for_emissions()
-        await asyncio.sleep(10)
+    #while True:
+        #await check_for_emissions()
+        #await asyncio.sleep(10)
 
 #Main emisssion command
 @bot.command(description="Checks the last emission")
@@ -57,7 +61,7 @@ async def emission(ctx, region: discord.Option(str)):
         return
     
     #Calls the get_emission function from out wrapper and gives it the users region
-    emission = wrapper.get_emission(region)
+    emission = await wrapper.get_emission(region)
 
     #Fancy date stuff here using UTC time to find the diffrence in time from last the current
     #Could chuck in some time zone conversion here but im lazy
@@ -183,6 +187,5 @@ async def remove_alert(ctx, region: discord.Option(str)):
     embed=discord.Embed(title="Emission Checker", description=f"The Alert for {region} has been removed")
     await ctx.respond(embed=embed) 
 
-#oh and we gotta run the bot i nearly forgot
 bot.run(auth.token)
-
+#asyncio.get_event_loop().run_until_complete(bot.run(auth.token))
