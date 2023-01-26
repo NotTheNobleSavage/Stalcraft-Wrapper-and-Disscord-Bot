@@ -12,7 +12,8 @@ import asyncio
 import os
 import json
 
-bot = discord.Bot()
+intents = discord.Intents(messages=True, guilds=True)
+bot = discord.Bot(intents = intents)
 
 
 #Code to check if the emission is happaning
@@ -45,10 +46,19 @@ async def check_for_emissions():
 async def on_ready():
     print(f"{bot.user} is ready and online!")
     #Loops and sleep time
-    #while True:
-        #await check_for_emissions()
-        #await asyncio.sleep(10)
+    while True:
+        await check_for_emissions()
+        await asyncio.sleep(10)
 
+@bot.event
+async def on_guild_join(guild):
+    with open('server_list.json') as fp:
+        listObj = json.load(fp)
+    if not {"guild_id": guild.id,"guild_name": guild.name,"owner_id": guild.owner_id} in listObj['servers']:
+        listObj['servers'].append({"guild_id": guild.id,"guild_name": guild.name,"owner_id": guild.owner_id})
+        with open('server_list.json', 'w') as json_file:
+            json.dump(listObj, json_file, indent=4,separators=(',',': '))
+    
 #Main emisssion command
 @bot.command(description="Checks the last emission")
 #Gets the region that you want (we love all regions here not just NA)
