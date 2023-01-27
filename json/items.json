@@ -1,0 +1,2745 @@
+{
+    "items": [
+        {
+            "item_id": "B17n",
+            "item_name": "Candle Short Range Detector",
+            "item_link": "/icons/weapon/device/B17n.png"
+        },
+        {
+            "item_id": "yZ08",
+            "item_name": "Buryat Short Range Detector",
+            "item_link": "/icons/weapon/device/yZ08.png"
+        },
+        {
+            "item_id": "lLod",
+            "item_name": "Elbrus Short Range Detector",
+            "item_link": "/icons/weapon/device/lLod.png"
+        },
+        {
+            "item_id": "VzQG",
+            "item_name": "SN-1 Pancake",
+            "item_link": "/icons/weapon/device/VzQG.png"
+        },
+        {
+            "item_id": "n8Vk",
+            "item_name": "SN-1u Mini-Pancake",
+            "item_link": "/icons/weapon/device/n8Vk.png"
+        },
+        {
+            "item_id": "gKnN",
+            "item_name": "SN-2 Leg",
+            "item_link": "/icons/weapon/device/gKnN.png"
+        },
+        {
+            "item_id": "0Qd7",
+            "item_name": "SN-2u Leglet",
+            "item_link": "/icons/weapon/device/0Qd7.png"
+        },
+        {
+            "item_id": "B16j",
+            "item_name": "Electric Crystal",
+            "item_link": "/icons/artefact/electrophysical/B16j.png"
+        },
+        {
+            "item_id": "yZP6",
+            "item_name": "Sparkler",
+            "item_link": "/icons/artefact/electrophysical/yZP6.png"
+        },
+        {
+            "item_id": "lLBw",
+            "item_name": "Flare",
+            "item_link": "/icons/artefact/electrophysical/lLBw.png"
+        },
+        {
+            "item_id": "Kmoj",
+            "item_name": "Battery",
+            "item_link": "/icons/artefact/electrophysical/Kmoj.png"
+        },
+        {
+            "item_id": "k5b2",
+            "item_name": "Snowflake",
+            "item_link": "/icons/artefact/electrophysical/k5b2.png"
+        },
+        {
+            "item_id": "31K1",
+            "item_name": "Shell",
+            "item_link": "/icons/artefact/electrophysical/31K1.png"
+        },
+        {
+            "item_id": "VzgA",
+            "item_name": "Disintegrator",
+            "item_link": "/icons/artefact/electrophysical/VzgA.png"
+        },
+        {
+            "item_id": "n8l9",
+            "item_name": "Moonlight",
+            "item_link": "/icons/artefact/electrophysical/n8l9.png"
+        },
+        {
+            "item_id": "gKMn",
+            "item_name": "Helium",
+            "item_link": "/icons/artefact/electrophysical/gKMn.png"
+        },
+        {
+            "item_id": "VzdA",
+            "item_name": "Crystal",
+            "item_link": "/icons/artefact/thermal/VzdA.png"
+        },
+        {
+            "item_id": "n8w9",
+            "item_name": "Fireball",
+            "item_link": "/icons/artefact/thermal/n8w9.png"
+        },
+        {
+            "item_id": "gKQn",
+            "item_name": "Droplet",
+            "item_link": "/icons/artefact/thermal/gKQn.png"
+        },
+        {
+            "item_id": "0QwO",
+            "item_name": "Wolf Tears",
+            "item_link": "/icons/artefact/thermal/0QwO.png"
+        },
+        {
+            "item_id": "Rgay",
+            "item_name": "Mama\u2019s Beads",
+            "item_link": "/icons/artefact/thermal/Rgay.png"
+        },
+        {
+            "item_id": "2XMR",
+            "item_name": "Eye",
+            "item_link": "/icons/artefact/thermal/2XMR.png"
+        },
+        {
+            "item_id": "Jk6Q",
+            "item_name": "Flame",
+            "item_link": "/icons/artefact/thermal/Jk6Q.png"
+        },
+        {
+            "item_id": "PReY",
+            "item_name": "Sun",
+            "item_link": "/icons/artefact/thermal/PReY.png"
+        },
+        {
+            "item_id": "B1xn",
+            "item_name": "Stone Blood",
+            "item_link": "/icons/artefact/gravity/B1xn.png"
+        },
+        {
+            "item_id": "yZR8",
+            "item_name": "Meat Chunk",
+            "item_link": "/icons/artefact/gravity/yZR8.png"
+        },
+        {
+            "item_id": "lLbd",
+            "item_name": "Stone Bile",
+            "item_link": "/icons/artefact/gravity/lLbd.png"
+        },
+        {
+            "item_id": "Km1A",
+            "item_name": "Swamp Rot",
+            "item_link": "/icons/artefact/gravity/Km1A.png"
+        },
+        {
+            "item_id": "k51k",
+            "item_name": "Soul",
+            "item_link": "/icons/artefact/gravity/k51k.png"
+        },
+        {
+            "item_id": "31kB",
+            "item_name": "Spring",
+            "item_link": "/icons/artefact/gravity/31kB.png"
+        },
+        {
+            "item_id": "VznG",
+            "item_name": "Frame",
+            "item_link": "/icons/artefact/gravity/VznG.png"
+        },
+        {
+            "item_id": "Vz0G",
+            "item_name": "Acid Crystal",
+            "item_link": "/icons/artefact/biochemical/Vz0G.png"
+        },
+        {
+            "item_id": "n8Bk",
+            "item_name": "Lollipop",
+            "item_link": "/icons/artefact/biochemical/n8Bk.png"
+        },
+        {
+            "item_id": "gKaN",
+            "item_name": "Slime",
+            "item_link": "/icons/artefact/biochemical/gKaN.png"
+        },
+        {
+            "item_id": "0Qk7",
+            "item_name": "Slug",
+            "item_link": "/icons/artefact/biochemical/0Qk7.png"
+        },
+        {
+            "item_id": "Rg37",
+            "item_name": "Mica",
+            "item_link": "/icons/artefact/biochemical/Rg37.png"
+        },
+        {
+            "item_id": "2XVa",
+            "item_name": "Firefly",
+            "item_link": "/icons/artefact/biochemical/2XVa.png"
+        },
+        {
+            "item_id": "JkdV",
+            "item_name": "Snail",
+            "item_link": "/icons/artefact/biochemical/JkdV.png"
+        },
+        {
+            "item_id": "PRKE",
+            "item_name": "Bubble",
+            "item_link": "/icons/artefact/biochemical/PRKE.png"
+        },
+        {
+            "item_id": "NMyK",
+            "item_name": "Pellicle",
+            "item_link": "/icons/artefact/biochemical/NMyK.png"
+        },
+        {
+            "item_id": "D1eX",
+            "item_name": "Polyhedron",
+            "item_link": "/icons/artefact/biochemical/D1eX.png"
+        },
+        {
+            "item_id": "B19r",
+            "item_name": "Thorn",
+            "item_link": "/icons/artefact/biochemical/B19r.png"
+        },
+        {
+            "item_id": "yZz5",
+            "item_name": "Crystal Thorn",
+            "item_link": "/icons/artefact/biochemical/yZz5.png"
+        },
+        {
+            "item_id": "lLnr",
+            "item_name": "Urchin",
+            "item_link": "/icons/artefact/biochemical/lLnr.png"
+        },
+        {
+            "item_id": "KmgX",
+            "item_name": "Kolobok",
+            "item_link": "/icons/artefact/biochemical/KmgX.png"
+        },
+        {
+            "item_id": "k5VN",
+            "item_name": "Steel Kolobok",
+            "item_link": "/icons/artefact/biochemical/k5VN.png"
+        },
+        {
+            "item_id": "Vzbg",
+            "item_name": "Stone Flower",
+            "item_link": "/icons/artefact/gravity/Vzbg.png"
+        },
+        {
+            "item_id": "n8Aw",
+            "item_name": "Jellyfish",
+            "item_link": "/icons/artefact/gravity/n8Aw.png"
+        },
+        {
+            "item_id": "gKLe",
+            "item_name": "Dark Jellyfish",
+            "item_link": "/icons/artefact/gravity/gKLe.png"
+        },
+        {
+            "item_id": "0Qak",
+            "item_name": "Veiner",
+            "item_link": "/icons/artefact/gravity/0Qak.png"
+        },
+        {
+            "item_id": "RgMD",
+            "item_name": "Night Star",
+            "item_link": "/icons/artefact/gravity/RgMD.png"
+        },
+        {
+            "item_id": "2X11",
+            "item_name": "Proto-Jellyfish",
+            "item_link": "/icons/artefact/gravity/2X11.png"
+        },
+        {
+            "item_id": "Jkme",
+            "item_name": "Bracelet",
+            "item_link": "/icons/artefact/gravity/Jkme.png"
+        },
+        {
+            "item_id": "B1QQ",
+            "item_name": "Quirk",
+            "item_link": "/icons/artefact/gravity/B1QQ.png"
+        },
+        {
+            "item_id": "yZXl",
+            "item_name": "Gravi",
+            "item_link": "/icons/artefact/gravity/yZXl.png"
+        },
+        {
+            "item_id": "lLGM",
+            "item_name": "Goldfish",
+            "item_link": "/icons/artefact/gravity/lLGM.png"
+        },
+        {
+            "item_id": "KmMq",
+            "item_name": "Gold Gravi",
+            "item_link": "/icons/artefact/gravity/KmMq.png"
+        },
+        {
+            "item_id": "k58D",
+            "item_name": "Amberite",
+            "item_link": "/icons/artefact/gravity/k58D.png"
+        },
+        {
+            "item_id": "31y7",
+            "item_name": "Cryogen",
+            "item_link": "/icons/artefact/gravity/31y7.png"
+        },
+        {
+            "item_id": "Vz5w",
+            "item_name": "Black Crystal",
+            "item_link": "/icons/artefact/gravity/Vz5w.png"
+        },
+        {
+            "item_id": "Vzkw",
+            "item_name": "Spiral",
+            "item_link": "/icons/artefact/electrophysical/Vzkw.png"
+        },
+        {
+            "item_id": "n813",
+            "item_name": "Mirror",
+            "item_link": "/icons/artefact/electrophysical/n813.png"
+        },
+        {
+            "item_id": "gKz3",
+            "item_name": "Shard",
+            "item_link": "/icons/artefact/electrophysical/gKz3.png"
+        },
+        {
+            "item_id": "0QKe",
+            "item_name": "Prism",
+            "item_link": "/icons/artefact/electrophysical/0QKe.png"
+        },
+        {
+            "item_id": "RgOz",
+            "item_name": "Atom",
+            "item_link": "/icons/artefact/electrophysical/RgOz.png"
+        },
+        {
+            "item_id": "Vzr3",
+            "item_name": "Frost",
+            "item_link": "/icons/artefact/thermal/Vzr3.png"
+        },
+        {
+            "item_id": "n86x",
+            "item_name": "Crystal",
+            "item_link": "/icons/artefact/thermal/n86x.png"
+        },
+        {
+            "item_id": "gK2w",
+            "item_name": "Crust",
+            "item_link": "/icons/artefact/thermal/gK2w.png"
+        },
+        {
+            "item_id": "0QZb",
+            "item_name": "Whirlwind",
+            "item_link": "/icons/artefact/thermal/0QZb.png"
+        },
+        {
+            "item_id": "Rgdl",
+            "item_name": "Fahrenheit",
+            "item_link": "/icons/artefact/thermal/Rgdl.png"
+        },
+        {
+            "item_id": "2Xqg",
+            "item_name": "Razor",
+            "item_link": "/icons/artefact/thermal/2Xqg.png"
+        },
+        {
+            "item_id": "JkGK",
+            "item_name": "Heel",
+            "item_link": "/icons/artefact/thermal/JkGK.png"
+        },
+        {
+            "item_id": "PR1M",
+            "item_name": "Chicken God",
+            "item_link": "/icons/artefact/thermal/PR1M.png"
+        },
+        {
+            "item_id": "NMaj",
+            "item_name": "Eye of the Storm",
+            "item_link": "/icons/artefact/thermal/NMaj.png"
+        },
+        {
+            "item_id": "BOlx",
+            "item_name": "KZS-1 Container",
+            "item_link": "/icons/containers/BOlx.png"
+        },
+        {
+            "item_id": "Rb1x",
+            "item_name": "KZS-2",
+            "item_link": "/icons/containers/Rb1x.png"
+        },
+        {
+            "item_id": "2DEN",
+            "item_name": "Hellboy Backpack",
+            "item_link": "/icons/containers/2DEN.png"
+        },
+        {
+            "item_id": "zg6l",
+            "item_name": "KZS-3",
+            "item_link": "/icons/containers/zg6l.png"
+        },
+        {
+            "item_id": "dLy5",
+            "item_name": "Bear\u2019s Den \u2014 4 Container",
+            "item_link": "/icons/containers/dLy5.png"
+        },
+        {
+            "item_id": "7Jyz",
+            "item_name": "KZS-4",
+            "item_link": "/icons/containers/7Jyz.png"
+        },
+        {
+            "item_id": "j6nm",
+            "item_name": "Cocoon Container",
+            "item_link": "/icons/containers/j6nm.png"
+        },
+        {
+            "item_id": "9rKA",
+            "item_name": "Forager Container",
+            "item_link": "/icons/containers/9rKA.png"
+        },
+        {
+            "item_id": "A3dB",
+            "item_name": "KZS-5",
+            "item_link": "/icons/containers/A3dB.png"
+        },
+        {
+            "item_id": "EY7z",
+            "item_name": "Hive Container",
+            "item_link": "/icons/containers/EY7z.png"
+        },
+        {
+            "item_id": "VA1K",
+            "item_name": "Bear\u2019s Den \u2014 6 Container",
+            "item_link": "/icons/containers/VA1K.png"
+        },
+        {
+            "item_id": "Rboy",
+            "item_name": "Transformer Bag",
+            "item_link": "/icons/containers/Rboy.png"
+        },
+        {
+            "item_id": "DNVZ",
+            "item_name": "Sports Bag",
+            "item_link": "/icons/containers/DNVZ.png"
+        },
+        {
+            "item_id": "G706",
+            "item_name": "Errand Junior Backpack",
+            "item_link": "/icons/containers/G706.png"
+        },
+        {
+            "item_id": "MZ7E",
+            "item_name": "MBSS Backpack",
+            "item_link": "/icons/containers/MZ7E.png"
+        },
+        {
+            "item_id": "X9E7",
+            "item_name": "Tri-Zip Assault Backpack",
+            "item_link": "/icons/containers/X9E7.png"
+        },
+        {
+            "item_id": "A3KP",
+            "item_name": "NPA Backpack",
+            "item_link": "/icons/containers/A3KP.png"
+        },
+        {
+            "item_id": "rB2d",
+            "item_name": "RGN",
+            "item_link": "/icons/grenade/rB2d.png"
+        },
+        {
+            "item_id": "X9e1",
+            "item_name": "RGO",
+            "item_link": "/icons/grenade/X9e1.png"
+        },
+        {
+            "item_id": "A3Rw",
+            "item_name": "Flare Grenade",
+            "item_link": "/icons/grenade/A3Rw.png"
+        },
+        {
+            "item_id": "EYNA",
+            "item_name": "M84",
+            "item_link": "/icons/grenade/EYNA.png"
+        },
+        {
+            "item_id": "Lm3Z",
+            "item_name": "M84 QD",
+            "item_link": "/icons/grenade/Lm3Z.png"
+        },
+        {
+            "item_id": "5e6a",
+            "item_name": "RGD-5",
+            "item_link": "/icons/grenade/5e6a.png"
+        },
+        {
+            "item_id": "BO2r",
+            "item_name": "F-1",
+            "item_link": "/icons/grenade/BO2r.png"
+        },
+        {
+            "item_id": "ygm5",
+            "item_name": "M67",
+            "item_link": "/icons/grenade/ygm5.png"
+        },
+        {
+            "item_id": "l03r",
+            "item_name": "V40 Mini-Grenade",
+            "item_link": "/icons/grenade/l03r.png"
+        },
+        {
+            "item_id": "KrkX",
+            "item_name": "VOG-25 Grenade Round",
+            "item_link": "/icons/grenade/KrkX.png"
+        },
+        {
+            "item_id": "kYkN",
+            "item_name": "VOG-25 Podkidysh Grenade Round",
+            "item_link": "/icons/grenade/kYkN.png"
+        },
+        {
+            "item_id": "3grl",
+            "item_name": "M381 Grenade Round",
+            "item_link": "/icons/grenade/3grl.png"
+        },
+        {
+            "item_id": "VADg",
+            "item_name": "M397 Grenade Round",
+            "item_link": "/icons/grenade/VADg.png"
+        },
+        {
+            "item_id": "a0J0",
+            "item_name": "M2 Grenade Round",
+            "item_link": "/icons/grenade/a0J0.png"
+        },
+        {
+            "item_id": "BOry",
+            "item_name": "9 mm Ammo",
+            "item_link": "/icons/bullet/BOry.png"
+        },
+        {
+            "item_id": "yg3N",
+            "item_name": "9 mm Armor-piercing Ammo",
+            "item_link": "/icons/bullet/yg3N.png"
+        },
+        {
+            "item_id": "l0XB",
+            "item_name": "9 mm Expanding Ammo",
+            "item_link": "/icons/bullet/l0XB.png"
+        },
+        {
+            "item_id": "Krnx",
+            "item_name": "9 mm Incendiary Ammo",
+            "item_link": "/icons/bullet/Krnx.png"
+        },
+        {
+            "item_id": "kYX1",
+            "item_name": "9 mm SBP Ammo",
+            "item_link": "/icons/bullet/kYX1.png"
+        },
+        {
+            "item_id": "gPXm",
+            "item_name": "Frost Shot",
+            "item_link": "/icons/bullet/gPXm.png"
+        },
+        {
+            "item_id": "0P9q",
+            "item_name": "12 Caliber Incendiary",
+            "item_link": "/icons/bullet/0P9q.png"
+        },
+        {
+            "item_id": "RbNO",
+            "item_name": "12 Caliber Canister Shot",
+            "item_link": "/icons/bullet/RbNO.png"
+        },
+        {
+            "item_id": "2D9P",
+            "item_name": "12 Caliber Buckshot",
+            "item_link": "/icons/bullet/2D9P.png"
+        },
+        {
+            "item_id": "JNVG",
+            "item_name": "12 Caliber Hunting Round",
+            "item_link": "/icons/bullet/JNVG.png"
+        },
+        {
+            "item_id": "PbJx",
+            "item_name": "12 Caliber Live Ammo",
+            "item_link": "/icons/bullet/PbJx.png"
+        },
+        {
+            "item_id": "NbRD",
+            "item_name": "5.45 mm Ammo",
+            "item_link": "/icons/bullet/NbRD.png"
+        },
+        {
+            "item_id": "DNBn",
+            "item_name": "5.45 mm Armor-Piercing Ammo",
+            "item_link": "/icons/bullet/DNBn.png"
+        },
+        {
+            "item_id": "QAEj",
+            "item_name": "5.45 mm Expanding Ammo",
+            "item_link": "/icons/bullet/QAEj.png"
+        },
+        {
+            "item_id": "m0Zz",
+            "item_name": "5.45 mm Incendiary Ammo",
+            "item_link": "/icons/bullet/m0Zz.png"
+        },
+        {
+            "item_id": "6Q6x",
+            "item_name": "5.45 mm SBP Ammo",
+            "item_link": "/icons/bullet/6Q6x.png"
+        },
+        {
+            "item_id": "xgXa",
+            "item_name": "5.56 mm Ammo",
+            "item_link": "/icons/bullet/xgXa.png"
+        },
+        {
+            "item_id": "zgoX",
+            "item_name": "5.56 mm Armor-Piercing Ammo",
+            "item_link": "/icons/bullet/zgoX.png"
+        },
+        {
+            "item_id": "81zQ",
+            "item_name": "5.56 mm Expanding Ammo",
+            "item_link": "/icons/bullet/81zQ.png"
+        },
+        {
+            "item_id": "G7E7",
+            "item_name": "5.56 mm Incendiary Ammo",
+            "item_link": "/icons/bullet/G7E7.png"
+        },
+        {
+            "item_id": "w3Xq",
+            "item_name": "5.56 SBP Ammo",
+            "item_link": "/icons/bullet/w3Xq.png"
+        },
+        {
+            "item_id": "MZED",
+            "item_name": "7.62 mm Ammo",
+            "item_link": "/icons/bullet/MZED.png"
+        },
+        {
+            "item_id": "a0EV",
+            "item_name": "7.62 mm Armor-Piercing Ammo",
+            "item_link": "/icons/bullet/a0EV.png"
+        },
+        {
+            "item_id": "oPo7",
+            "item_name": "7.62 mm Expanding Ammo",
+            "item_link": "/icons/bullet/oPo7.png"
+        },
+        {
+            "item_id": "1rPj",
+            "item_name": "7.62 mm Incendiary Ammo",
+            "item_link": "/icons/bullet/1rPj.png"
+        },
+        {
+            "item_id": "bRZb",
+            "item_name": "7.62 mm SBP Ammo",
+            "item_link": "/icons/bullet/bRZb.png"
+        },
+        {
+            "item_id": "dLZj",
+            "item_name": "9x39 mm SP-5 Ammo",
+            "item_link": "/icons/bullet/dLZj.png"
+        },
+        {
+            "item_id": "7JxP",
+            "item_name": "9x39 mm SP-6 Ammo",
+            "item_link": "/icons/bullet/7JxP.png"
+        },
+        {
+            "item_id": "j6ZK",
+            "item_name": "9x39 mm BP Ammo",
+            "item_link": "/icons/bullet/j6ZK.png"
+        },
+        {
+            "item_id": "9r8V",
+            "item_name": "Large-Caliber Ammo",
+            "item_link": "/icons/bullet/9r8V.png"
+        },
+        {
+            "item_id": "X9AX",
+            "item_name": "7.62 mm Sniper Ammo",
+            "item_link": "/icons/bullet/X9AX.png"
+        },
+        {
+            "item_id": "OZEV",
+            "item_name": "Gauss Rifle Charger",
+            "item_link": "/icons/bullet/OZEV.png"
+        },
+        {
+            "item_id": "A3E9",
+            "item_name": "10 mm Ammo",
+            "item_link": "/icons/bullet/A3E9.png"
+        },
+        {
+            "item_id": "EYEE",
+            "item_name": "10 mm Incendiary Ammo",
+            "item_link": "/icons/bullet/EYEE.png"
+        },
+        {
+            "item_id": "LmEy",
+            "item_name": "Tank of Combustible Mixture",
+            "item_link": "/icons/bullet/LmEy.png"
+        },
+        {
+            "item_id": "BOEy",
+            "item_name": "Tank of Combustible Mixture",
+            "item_link": "/icons/bullet/BOEy.png"
+        },
+        {
+            "item_id": "yg5N",
+            "item_name": "12.7x55 Ammo",
+            "item_link": "/icons/bullet/yg5N.png"
+        },
+        {
+            "item_id": "l0ZB",
+            "item_name": "12.7x55 SMG Ammo",
+            "item_link": "/icons/bullet/l0ZB.png"
+        },
+        {
+            "item_id": "KrEx",
+            "item_name": "12.7x55 mm Sniper Ammo",
+            "item_link": "/icons/bullet/KrEx.png"
+        },
+        {
+            "item_id": "BOYN",
+            "item_name": "9 mm Silver Ammo",
+            "item_link": "/icons/bullet/BOYN.png"
+        },
+        {
+            "item_id": "ygrx",
+            "item_name": "12 Caliber Silver Ammo",
+            "item_link": "/icons/bullet/ygrx.png"
+        },
+        {
+            "item_id": "l0rK",
+            "item_name": "5.45 mm Silver Ammo",
+            "item_link": "/icons/bullet/l0rK.png"
+        },
+        {
+            "item_id": "KrB8",
+            "item_name": "5.56 mm Silver Ammo",
+            "item_link": "/icons/bullet/KrB8.png"
+        },
+        {
+            "item_id": "kYwG",
+            "item_name": "7.62 mm Silver Ammo",
+            "item_link": "/icons/bullet/kYwG.png"
+        },
+        {
+            "item_id": "3g8R",
+            "item_name": "9x39 mm Silver Ammo",
+            "item_link": "/icons/bullet/3g8R.png"
+        },
+        {
+            "item_id": "VAlJ",
+            "item_name": "Large-Caliber Silver Ammo",
+            "item_link": "/icons/bullet/VAlJ.png"
+        },
+        {
+            "item_id": "nRa2",
+            "item_name": "12.7x55 mm Silver Ammo",
+            "item_link": "/icons/bullet/nRa2.png"
+        },
+        {
+            "item_id": "Rb5b",
+            "item_name": "9 mm Silver Ammo",
+            "item_link": "/icons/bullet/Rb5b.png"
+        },
+        {
+            "item_id": "2Dz7",
+            "item_name": "12 Caliber Silver Ammo",
+            "item_link": "/icons/bullet/2Dz7.png"
+        },
+        {
+            "item_id": "JNX1",
+            "item_name": "5.45 mm Silver Ammo",
+            "item_link": "/icons/bullet/JNX1.png"
+        },
+        {
+            "item_id": "PbOA",
+            "item_name": "5.56 mm Silver Ammo",
+            "item_link": "/icons/bullet/PbOA.png"
+        },
+        {
+            "item_id": "NbXN",
+            "item_name": "7.62 mm Silver Ammo",
+            "item_link": "/icons/bullet/NbXN.png"
+        },
+        {
+            "item_id": "DNXV",
+            "item_name": "9x39 mm Silver Ammo",
+            "item_link": "/icons/bullet/DNXV.png"
+        },
+        {
+            "item_id": "QAX1",
+            "item_name": "Large-Caliber Silver Ammo",
+            "item_link": "/icons/bullet/QAX1.png"
+        },
+        {
+            "item_id": "m0M8",
+            "item_name": "12.7x55 mm Silver Ammo",
+            "item_link": "/icons/bullet/m0M8.png"
+        },
+        {
+            "item_id": "Bl92",
+            "item_name": "GP-25 Kostyor",
+            "item_link": "/icons/attachment/other/Bl92.png"
+        },
+        {
+            "item_id": "yyzG",
+            "item_name": "M203",
+            "item_link": "/icons/attachment/other/yyzG.png"
+        },
+        {
+            "item_id": "lkn1",
+            "item_name": "Grenade Launcher for OTs-14 Groza",
+            "item_link": "/icons/attachment/other/lkn1.png"
+        },
+        {
+            "item_id": "kKV6",
+            "item_name": "FN EGLM Grenade Launcher",
+            "item_link": "/icons/attachment/other/kKV6.png"
+        },
+        {
+            "item_id": "BMBr",
+            "item_name": "SMG-91 KEDR",
+            "item_link": "/icons/weapon/submachine_gun/BMBr.png"
+        },
+        {
+            "item_id": "y1d5",
+            "item_name": "HK MP5",
+            "item_link": "/icons/weapon/submachine_gun/y1d5.png"
+        },
+        {
+            "item_id": "lOdr",
+            "item_name": "IMI Uzi",
+            "item_link": "/icons/weapon/submachine_gun/lOdr.png"
+        },
+        {
+            "item_id": "KP0X",
+            "item_name": "AEK-919K Kashtan",
+            "item_link": "/icons/weapon/submachine_gun/KP0X.png"
+        },
+        {
+            "item_id": "kaON",
+            "item_name": "AKS-74U",
+            "item_link": "/icons/weapon/assault_rifle/kaON.png"
+        },
+        {
+            "item_id": "32Pl",
+            "item_name": "Walther MPK",
+            "item_link": "/icons/weapon/submachine_gun/32Pl.png"
+        },
+        {
+            "item_id": "MOwn",
+            "item_name": "AKS-74",
+            "item_link": "/icons/weapon/assault_rifle/MOwn.png"
+        },
+        {
+            "item_id": "aVQ0",
+            "item_name": "L85A1",
+            "item_link": "/icons/weapon/assault_rifle/aVQ0.png"
+        },
+        {
+            "item_id": "oq89",
+            "item_name": "SMG-19 Bizon-2-01",
+            "item_link": "/icons/weapon/submachine_gun/oq89.png"
+        },
+        {
+            "item_id": "1gnd",
+            "item_name": "AKM",
+            "item_link": "/icons/weapon/assault_rifle/1gnd.png"
+        },
+        {
+            "item_id": "bnEg",
+            "item_name": "SMG-19-01 Vityaz",
+            "item_link": "/icons/weapon/submachine_gun/bnEg.png"
+        },
+        {
+            "item_id": "nqMw",
+            "item_name": "M4A1",
+            "item_link": "/icons/weapon/assault_rifle/nqMw.png"
+        },
+        {
+            "item_id": "g9be",
+            "item_name": "FN P90",
+            "item_link": "/icons/weapon/submachine_gun/g9be.png"
+        },
+        {
+            "item_id": "0nVk",
+            "item_name": "AS Val",
+            "item_link": "/icons/weapon/assault_rifle/0nVk.png"
+        },
+        {
+            "item_id": "RywD",
+            "item_name": "SIG SG 550",
+            "item_link": "/icons/weapon/assault_rifle/RywD.png"
+        },
+        {
+            "item_id": "20g1",
+            "item_name": "SMG-2000",
+            "item_link": "/icons/weapon/submachine_gun/20g1.png"
+        },
+        {
+            "item_id": "JJwe",
+            "item_name": "SR-2M Veresk",
+            "item_link": "/icons/weapon/submachine_gun/JJwe.png"
+        },
+        {
+            "item_id": "PLoq",
+            "item_name": "Spectre M4",
+            "item_link": "/icons/weapon/submachine_gun/PLoq.png"
+        },
+        {
+            "item_id": "NNw9",
+            "item_name": "M16A3",
+            "item_link": "/icons/weapon/assault_rifle/NNw9.png"
+        },
+        {
+            "item_id": "DMZ7",
+            "item_name": "M4 LB",
+            "item_link": "/icons/weapon/assault_rifle/DMZ7.png"
+        },
+        {
+            "item_id": "QBwb",
+            "item_name": "AN-94 Abakan",
+            "item_link": "/icons/weapon/assault_rifle/QBwb.png"
+        },
+        {
+            "item_id": "xEKM",
+            "item_name": "M16A2",
+            "item_link": "/icons/weapon/assault_rifle/xEKM.png"
+        },
+        {
+            "item_id": "aVb0",
+            "item_name": "AK-103",
+            "item_link": "/icons/weapon/assault_rifle/aVb0.png"
+        },
+        {
+            "item_id": "75Bm",
+            "item_name": "HK G36C",
+            "item_link": "/icons/weapon/assault_rifle/75Bm.png"
+        },
+        {
+            "item_id": "92lL",
+            "item_name": "TDI KRISS Vector",
+            "item_link": "/icons/weapon/submachine_gun/92lL.png"
+        },
+        {
+            "item_id": "qwRM",
+            "item_name": "AEK-971",
+            "item_link": "/icons/weapon/assault_rifle/qwRM.png"
+        },
+        {
+            "item_id": "y1m5",
+            "item_name": "FN F2000",
+            "item_link": "/icons/weapon/assault_rifle/y1m5.png"
+        },
+        {
+            "item_id": "MOxx",
+            "item_name": "DP",
+            "item_link": "/icons/weapon/machine_gun/MOxx.png"
+        },
+        {
+            "item_id": "aVJ1",
+            "item_name": "RPK-74",
+            "item_link": "/icons/weapon/machine_gun/aVJ1.png"
+        },
+        {
+            "item_id": "V3yw",
+            "item_name": "L86A1",
+            "item_link": "/icons/weapon/machine_gun/V3yw.png"
+        },
+        {
+            "item_id": "nqE3",
+            "item_name": "RPD",
+            "item_link": "/icons/weapon/machine_gun/nqE3.png"
+        },
+        {
+            "item_id": "y1DZ",
+            "item_name": "Mosin\u2019s Carbine",
+            "item_link": "/icons/weapon/sniper_rifle/y1DZ.png"
+        },
+        {
+            "item_id": "lOl0",
+            "item_name": "SKS",
+            "item_link": "/icons/weapon/sniper_rifle/lOl0.png"
+        },
+        {
+            "item_id": "aV7x",
+            "item_name": "Winchester M70",
+            "item_link": "/icons/weapon/sniper_rifle/aV7x.png"
+        },
+        {
+            "item_id": "d079",
+            "item_name": "SVT-40",
+            "item_link": "/icons/weapon/sniper_rifle/d079.png"
+        },
+        {
+            "item_id": "75z9",
+            "item_name": "Steyr Scout",
+            "item_link": "/icons/weapon/sniper_rifle/75z9.png"
+        },
+        {
+            "item_id": "V3m3",
+            "item_name": "SVD",
+            "item_link": "/icons/weapon/sniper_rifle/V3m3.png"
+        },
+        {
+            "item_id": "g9Nw",
+            "item_name": "M40A5",
+            "item_link": "/icons/weapon/sniper_rifle/g9Nw.png"
+        },
+        {
+            "item_id": "75w9",
+            "item_name": "M1A FA",
+            "item_link": "/icons/weapon/sniper_rifle/75w9.png"
+        },
+        {
+            "item_id": "jamz",
+            "item_name": "SVU",
+            "item_link": "/icons/weapon/sniper_rifle/jamz.png"
+        },
+        {
+            "item_id": "BMA2",
+            "item_name": "BM-16 Sawed-Off",
+            "item_link": "/icons/weapon/shotgun_rifle/BMA2.png"
+        },
+        {
+            "item_id": "MOkQ",
+            "item_name": "BM-16",
+            "item_link": "/icons/weapon/shotgun_rifle/MOkQ.png"
+        },
+        {
+            "item_id": "V3aa",
+            "item_name": "TOZ-34",
+            "item_link": "/icons/weapon/shotgun_rifle/V3aa.png"
+        },
+        {
+            "item_id": "nqPD",
+            "item_name": "Mossberg 590A1",
+            "item_link": "/icons/weapon/shotgun_rifle/nqPD.png"
+        },
+        {
+            "item_id": "g9VX",
+            "item_name": "Shorty 590",
+            "item_link": "/icons/weapon/shotgun_rifle/g9VX.png"
+        },
+        {
+            "item_id": "0nmJ",
+            "item_name": "\u041c\u0420-133",
+            "item_link": "/icons/weapon/shotgun_rifle/0nmJ.png"
+        },
+        {
+            "item_id": "75aL",
+            "item_name": "Franchi SPAS-12",
+            "item_link": "/icons/weapon/shotgun_rifle/75aL.png"
+        },
+        {
+            "item_id": "ja2O",
+            "item_name": "Saiga-12K",
+            "item_link": "/icons/weapon/shotgun_rifle/ja2O.png"
+        },
+        {
+            "item_id": "92aQ",
+            "item_name": "\u041c\u0420-153",
+            "item_link": "/icons/weapon/shotgun_rifle/92aQ.png"
+        },
+        {
+            "item_id": "XnQO",
+            "item_name": "Protecta",
+            "item_link": "/icons/weapon/shotgun_rifle/XnQO.png"
+        },
+        {
+            "item_id": "BMay",
+            "item_name": "PB",
+            "item_link": "/icons/weapon/pistol/BMay.png"
+        },
+        {
+            "item_id": "y17N",
+            "item_name": "PM",
+            "item_link": "/icons/weapon/pistol/y17N.png"
+        },
+        {
+            "item_id": "lOPB",
+            "item_name": "TT",
+            "item_link": "/icons/weapon/pistol/lOPB.png"
+        },
+        {
+            "item_id": "MO0D",
+            "item_name": "Fort-12",
+            "item_link": "/icons/weapon/pistol/MO0D.png"
+        },
+        {
+            "item_id": "aVXV",
+            "item_name": "Walther P99",
+            "item_link": "/icons/weapon/pistol/aVXV.png"
+        },
+        {
+            "item_id": "oqY7",
+            "item_name": "R-92",
+            "item_link": "/icons/weapon/pistol/oqY7.png"
+        },
+        {
+            "item_id": "V36x",
+            "item_name": "Beretta 92FS",
+            "item_link": "/icons/weapon/pistol/V36x.png"
+        },
+        {
+            "item_id": "nqXA",
+            "item_name": "Browning Hi-Power",
+            "item_link": "/icons/weapon/pistol/nqXA.png"
+        },
+        {
+            "item_id": "g9Xm",
+            "item_name": "Mauser C96",
+            "item_link": "/icons/weapon/pistol/g9Xm.png"
+        },
+        {
+            "item_id": "0n9q",
+            "item_name": "Beretta 93R",
+            "item_link": "/icons/weapon/pistol/0n9q.png"
+        },
+        {
+            "item_id": "75xP",
+            "item_name": "SW1911",
+            "item_link": "/icons/weapon/pistol/75xP.png"
+        },
+        {
+            "item_id": "jaZK",
+            "item_name": "Glock 17",
+            "item_link": "/icons/weapon/pistol/jaZK.png"
+        },
+        {
+            "item_id": "928V",
+            "item_name": "Desert Eagle Mark XIX",
+            "item_link": "/icons/weapon/pistol/928V.png"
+        },
+        {
+            "item_id": "r6YM",
+            "item_name": "SR-1 Gyurza",
+            "item_link": "/icons/weapon/pistol/r6YM.png"
+        },
+        {
+            "item_id": "XnAX",
+            "item_name": "OTs-33 Pernach",
+            "item_link": "/icons/weapon/pistol/XnAX.png"
+        },
+        {
+            "item_id": "Z0Zy",
+            "item_name": "Colt Python",
+            "item_link": "/icons/weapon/pistol/Z0Zy.png"
+        },
+        {
+            "item_id": "karG",
+            "item_name": "HK MP5K",
+            "item_link": "/icons/weapon/submachine_gun/karG.png"
+        },
+        {
+            "item_id": "MOlk",
+            "item_name": "Kbk wz. 88 Tantal",
+            "item_link": "/icons/weapon/assault_rifle/MOlk.png"
+        },
+        {
+            "item_id": "aV5B",
+            "item_name": "Mosin\u2019s Rifle",
+            "item_link": "/icons/weapon/sniper_rifle/aV5B.png"
+        },
+        {
+            "item_id": "BMyl",
+            "item_name": "Tsunami",
+            "item_link": "/icons/weapon/submachine_gun/BMyl.png"
+        },
+        {
+            "item_id": "y1q9",
+            "item_name": "Viper",
+            "item_link": "/icons/weapon/submachine_gun/y1q9.png"
+        },
+        {
+            "item_id": "JJ03",
+            "item_name": "Rapier",
+            "item_link": "/icons/weapon/assault_rifle/JJ03.png"
+        },
+        {
+            "item_id": "NNPA",
+            "item_name": "SMG Nut",
+            "item_link": "/icons/weapon/submachine_gun/NNPA.png"
+        },
+        {
+            "item_id": "V3g2",
+            "item_name": "AVT-40",
+            "item_link": "/icons/weapon/sniper_rifle/V3g2.png"
+        },
+        {
+            "item_id": "JJao",
+            "item_name": "Avalanche",
+            "item_link": "/icons/weapon/sniper_rifle/JJao.png"
+        },
+        {
+            "item_id": "y1R2",
+            "item_name": "Eternal Novice\u2019s PM",
+            "item_link": "/icons/weapon/pistol/y1R2.png"
+        },
+        {
+            "item_id": "JJd9",
+            "item_name": "Bee",
+            "item_link": "/icons/weapon/pistol/JJd9.png"
+        },
+        {
+            "item_id": "aVzY",
+            "item_name": "Dream",
+            "item_link": "/icons/weapon/pistol/aVzY.png"
+        },
+        {
+            "item_id": "BMqn",
+            "item_name": "Hunter\u2019s Knife",
+            "item_link": "/icons/weapon/melee/BMqn.png"
+        },
+        {
+            "item_id": "y1l8",
+            "item_name": "Project 6X4",
+            "item_link": "/icons/weapon/melee/y1l8.png"
+        },
+        {
+            "item_id": "lOad",
+            "item_name": "Crowbar",
+            "item_link": "/icons/weapon/melee/lOad.png"
+        },
+        {
+            "item_id": "KPYA",
+            "item_name": "OTs-04",
+            "item_link": "/icons/weapon/melee/KPYA.png"
+        },
+        {
+            "item_id": "kaMk",
+            "item_name": "Glock Feldmesser 78",
+            "item_link": "/icons/weapon/melee/kaMk.png"
+        },
+        {
+            "item_id": "V3kG",
+            "item_name": "KO-1",
+            "item_link": "/icons/weapon/melee/V3kG.png"
+        },
+        {
+            "item_id": "0nq7",
+            "item_name": "Sapper\u2019s Shovel",
+            "item_link": "/icons/weapon/melee/0nq7.png"
+        },
+        {
+            "item_id": "20Aa",
+            "item_name": "Hunter\u2019s Machete",
+            "item_link": "/icons/weapon/melee/20Aa.png"
+        },
+        {
+            "item_id": "NNqK",
+            "item_name": "Ax",
+            "item_link": "/icons/weapon/melee/NNqK.png"
+        },
+        {
+            "item_id": "DMqX",
+            "item_name": "Hammer",
+            "item_link": "/icons/weapon/melee/DMqX.png"
+        },
+        {
+            "item_id": "mqol",
+            "item_name": "M9 Bayonet Knife",
+            "item_link": "/icons/weapon/melee/mqol.png"
+        },
+        {
+            "item_id": "Z0n8",
+            "item_name": "6H9 Knife",
+            "item_link": "/icons/weapon/melee/Z0n8.png"
+        },
+        {
+            "item_id": "Bk2j",
+            "item_name": "RIS L85 Handguard",
+            "item_link": "/icons/attachment/forend/Bk2j.png"
+        },
+        {
+            "item_id": "yEm6",
+            "item_name": "RIS M4A1 Handguard",
+            "item_link": "/icons/attachment/forend/yEm6.png"
+        },
+        {
+            "item_id": "lz3w",
+            "item_name": "RIS M16 Handguard",
+            "item_link": "/icons/attachment/forend/lz3w.png"
+        },
+        {
+            "item_id": "K5kj",
+            "item_name": "MP5 with Picatinny Rail Handguard",
+            "item_link": "/icons/attachment/forend/K5kj.png"
+        },
+        {
+            "item_id": "kxk2",
+            "item_name": "RIS P90 Handguard",
+            "item_link": "/icons/attachment/forend/kxk2.png"
+        },
+        {
+            "item_id": "3mr1",
+            "item_name": "Fal Quad Rail",
+            "item_link": "/icons/attachment/forend/3mr1.png"
+        },
+        {
+            "item_id": "VoDA",
+            "item_name": "SIG SG 550 Handguard 4x NAR",
+            "item_link": "/icons/attachment/forend/VoDA.png"
+        },
+        {
+            "item_id": "nxn9",
+            "item_name": "Handguard with Guiding RIS for Uzi",
+            "item_link": "/icons/attachment/forend/nxn9.png"
+        },
+        {
+            "item_id": "gJBn",
+            "item_name": "Handguard with Guiding RIS for SIG SG 550",
+            "item_link": "/icons/attachment/forend/gJBn.png"
+        },
+        {
+            "item_id": "0gzO",
+            "item_name": "M1A with Picatinny Rail Handguard",
+            "item_link": "/icons/attachment/forend/0gzO.png"
+        },
+        {
+            "item_id": "Ro2y",
+            "item_name": "M1A Stock with Picatinny Rails",
+            "item_link": "/icons/attachment/forend/Ro2y.png"
+        },
+        {
+            "item_id": "2R6R",
+            "item_name": "Handguard RIS LR-300",
+            "item_link": "/icons/attachment/forend/2R6R.png"
+        },
+        {
+            "item_id": "JAKQ",
+            "item_name": "Fab Defense G3-RS Handguard",
+            "item_link": "/icons/attachment/forend/JAKQ.png"
+        },
+        {
+            "item_id": "P80Y",
+            "item_name": "Springfield M1A PACS Stock",
+            "item_link": "/icons/attachment/forend/P80Y.png"
+        },
+        {
+            "item_id": "nxE9",
+            "item_name": "B-11 Handguard with Upper Rail",
+            "item_link": "/icons/attachment/forend/nxE9.png"
+        },
+        {
+            "item_id": "gJEn",
+            "item_name": "AKM Wooden Handguard, Black",
+            "item_link": "/icons/attachment/forend/gJEn.png"
+        },
+        {
+            "item_id": "0gNO",
+            "item_name": "Fab Defense AK Handguard",
+            "item_link": "/icons/attachment/forend/0gNO.png"
+        },
+        {
+            "item_id": "RoLy",
+            "item_name": "CAA RS-21 Handguard",
+            "item_link": "/icons/attachment/forend/RoLy.png"
+        },
+        {
+            "item_id": "2RQR",
+            "item_name": "B-10M Handguard and B-33 Receiver Cover",
+            "item_link": "/icons/attachment/forend/2RQR.png"
+        },
+        {
+            "item_id": "JA5Q",
+            "item_name": "PKP Receiver Cover with Picatinny Rail",
+            "item_link": "/icons/attachment/forend/JA5Q.png"
+        },
+        {
+            "item_id": "N5xJ",
+            "item_name": "AN-94 Udav Handguard",
+            "item_link": "/icons/attachment/forend/N5xJ.png"
+        },
+        {
+            "item_id": "DVdZ",
+            "item_name": "Handguard for Saiga-12K",
+            "item_link": "/icons/attachment/forend/DVdZ.png"
+        },
+        {
+            "item_id": "Q8xR",
+            "item_name": "SKS Tactical Grip",
+            "item_link": "/icons/attachment/forend/Q8xR.png"
+        },
+        {
+            "item_id": "mxEE",
+            "item_name": "B-21M Handguard",
+            "item_link": "/icons/attachment/forend/mxEE.png"
+        },
+        {
+            "item_id": "61KD",
+            "item_name": "B-10M Handguard (Bottom Rail)",
+            "item_link": "/icons/attachment/forend/61KD.png"
+        },
+        {
+            "item_id": "xLGN",
+            "item_name": "RPD Tactical Handguard",
+            "item_link": "/icons/attachment/forend/xLGN.png"
+        },
+        {
+            "item_id": "G0Z6",
+            "item_name": "Tactical Stock for SKS",
+            "item_link": "/icons/attachment/forend/G0Z6.png"
+        },
+        {
+            "item_id": "wDG7",
+            "item_name": "OTs-14 Tactical Grip",
+            "item_link": "/icons/attachment/forend/wDG7.png"
+        },
+        {
+            "item_id": "ePQX",
+            "item_name": "Val/VSS Receiver Cover",
+            "item_link": "/icons/attachment/forend/ePQX.png"
+        },
+        {
+            "item_id": "Bkon",
+            "item_name": "Magpul AFG Tactical Grip",
+            "item_link": "/icons/attachment/other/Bkon.png"
+        },
+        {
+            "item_id": "yEM8",
+            "item_name": "PCLRS Tactical Grip",
+            "item_link": "/icons/attachment/other/yEM8.png"
+        },
+        {
+            "item_id": "lz1d",
+            "item_name": "ANG4 Vertical Grip",
+            "item_link": "/icons/attachment/other/lz1d.png"
+        },
+        {
+            "item_id": "K5GA",
+            "item_name": "REG Fab Defense Tactical Grip, Khaki",
+            "item_link": "/icons/attachment/other/K5GA.png"
+        },
+        {
+            "item_id": "kxjk",
+            "item_name": "REG Fab Defense Tactical Grip, Gray",
+            "item_link": "/icons/attachment/other/kxjk.png"
+        },
+        {
+            "item_id": "3mJB",
+            "item_name": "Grip for OTs-14 Groza",
+            "item_link": "/icons/attachment/barrel/3mJB.png"
+        },
+        {
+            "item_id": "gJ1N",
+            "item_name": "Fortis SHIFT Vertical Tactical Grip, Orange",
+            "item_link": "/icons/attachment/other/gJ1N.png"
+        },
+        {
+            "item_id": "0g07",
+            "item_name": "Fortis SHIFT Vertical Tactical Grip, Black",
+            "item_link": "/icons/attachment/other/0g07.png"
+        },
+        {
+            "item_id": "RoG7",
+            "item_name": "FMA DARK EARTH Fire Transfer Grip",
+            "item_link": "/icons/attachment/other/RoG7.png"
+        },
+        {
+            "item_id": "2R2a",
+            "item_name": "FMA TD Grip Tactical Grip",
+            "item_link": "/icons/attachment/other/2R2a.png"
+        },
+        {
+            "item_id": "JAjV",
+            "item_name": "Tapco Vertical Grip",
+            "item_link": "/icons/attachment/other/JAjV.png"
+        },
+        {
+            "item_id": "Bkwr",
+            "item_name": "SUSAT Scope",
+            "item_link": "/icons/attachment/collimator_sights/Bkwr.png"
+        },
+        {
+            "item_id": "yEJ5",
+            "item_name": "Leupold Optical Sight",
+            "item_link": "/icons/attachment/collimator_sights/yEJ5.png"
+        },
+        {
+            "item_id": "lzxr",
+            "item_name": "Elcan Optical Sight",
+            "item_link": "/icons/attachment/collimator_sights/lzxr.png"
+        },
+        {
+            "item_id": "K5VX",
+            "item_name": "Trijicon ACOG Optical Sight",
+            "item_link": "/icons/attachment/collimator_sights/K5VX.png"
+        },
+        {
+            "item_id": "kx6N",
+            "item_name": "Sig Sauer Optical Sight",
+            "item_link": "/icons/attachment/collimator_sights/kx6N.png"
+        },
+        {
+            "item_id": "3mwl",
+            "item_name": "Trijicon AccuPoint Optical Sight",
+            "item_link": "/icons/attachment/collimator_sights/3mwl.png"
+        },
+        {
+            "item_id": "Vomg",
+            "item_name": "Trijicon ACOG Optical Sight",
+            "item_link": "/icons/attachment/collimator_sights/Vomg.png"
+        },
+        {
+            "item_id": "nxyw",
+            "item_name": "Elcan M145 Optical Sight",
+            "item_link": "/icons/attachment/collimator_sights/nxyw.png"
+        },
+        {
+            "item_id": "0gxk",
+            "item_name": "Elcan Optical Sight",
+            "item_link": "/icons/attachment/collimator_sights/0gxk.png"
+        },
+        {
+            "item_id": "RoPD",
+            "item_name": "Bars Optical Sight",
+            "item_link": "/icons/attachment/collimator_sights/RoPD.png"
+        },
+        {
+            "item_id": "2Rw1",
+            "item_name": "Acecare Optical Sight",
+            "item_link": "/icons/attachment/collimator_sights/2Rw1.png"
+        },
+        {
+            "item_id": "VoPg",
+            "item_name": "Rakurs Wide-Angle Sight",
+            "item_link": "/icons/attachment/collimator_sights/VoPg.png"
+        },
+        {
+            "item_id": "nxQw",
+            "item_name": "PSO Optical Sight",
+            "item_link": "/icons/attachment/collimator_sights/nxQw.png"
+        },
+        {
+            "item_id": "gJ0e",
+            "item_name": "1P77 Optical Sight",
+            "item_link": "/icons/attachment/collimator_sights/gJ0e.png"
+        },
+        {
+            "item_id": "0g7k",
+            "item_name": "POSP Optical Sight",
+            "item_link": "/icons/attachment/collimator_sights/0g7k.png"
+        },
+        {
+            "item_id": "Ro0D",
+            "item_name": "PU Optical Sight on Side Bracket",
+            "item_link": "/icons/attachment/collimator_sights/Ro0D.png"
+        },
+        {
+            "item_id": "2RG1",
+            "item_name": "PSO Optical Sight",
+            "item_link": "/icons/attachment/collimator_sights/2RG1.png"
+        },
+        {
+            "item_id": "JAye",
+            "item_name": "PU Optical Sight for SVT",
+            "item_link": "/icons/attachment/collimator_sights/JAye.png"
+        },
+        {
+            "item_id": "P8nq",
+            "item_name": "Tulip Optical Sight",
+            "item_link": "/icons/attachment/collimator_sights/P8nq.png"
+        },
+        {
+            "item_id": "N539",
+            "item_name": "Pilad 3.5x20 Optical Sight",
+            "item_link": "/icons/attachment/collimator_sights/N539.png"
+        },
+        {
+            "item_id": "BkPQ",
+            "item_name": "Micro Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/BkPQ.png"
+        },
+        {
+            "item_id": "yEOl",
+            "item_name": "EoTech Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/yEOl.png"
+        },
+        {
+            "item_id": "lz2M",
+            "item_name": "EoTech Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/lz2M.png"
+        },
+        {
+            "item_id": "K5bq",
+            "item_name": "Trijicon Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/K5bq.png"
+        },
+        {
+            "item_id": "kxRD",
+            "item_name": "LaRue Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/kxRD.png"
+        },
+        {
+            "item_id": "3mz7",
+            "item_name": "OKP-7 Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/3mz7.png"
+        },
+        {
+            "item_id": "Voaw",
+            "item_name": "BSA Reflex Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/Voaw.png"
+        },
+        {
+            "item_id": "nxP3",
+            "item_name": "Valday Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/nxP3.png"
+        },
+        {
+            "item_id": "gJg3",
+            "item_name": "Barska Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/gJg3.png"
+        },
+        {
+            "item_id": "RoRz",
+            "item_name": "Barska Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/RoRz.png"
+        },
+        {
+            "item_id": "2Rak",
+            "item_name": "Bering OPTICS Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/2Rak.png"
+        },
+        {
+            "item_id": "JAlB",
+            "item_name": "Bering OPTICS Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/JAlB.png"
+        },
+        {
+            "item_id": "P8gR",
+            "item_name": "Vortex Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/P8gR.png"
+        },
+        {
+            "item_id": "N5Vb",
+            "item_name": "Vortex Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/N5Vb.png"
+        },
+        {
+            "item_id": "DVam",
+            "item_name": "Trijicon Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/DVam.png"
+        },
+        {
+            "item_id": "Q80r",
+            "item_name": "Trijicon Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/Q80r.png"
+        },
+        {
+            "item_id": "mxNO",
+            "item_name": "Sig Sauer Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/mxNO.png"
+        },
+        {
+            "item_id": "61a2",
+            "item_name": "PK-01(T) Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/61a2.png"
+        },
+        {
+            "item_id": "xL7L",
+            "item_name": "PK-01(T/Z) Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/xL7L.png"
+        },
+        {
+            "item_id": "z57x",
+            "item_name": "Rusak Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/z57x.png"
+        },
+        {
+            "item_id": "86oE",
+            "item_name": "DM Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/86oE.png"
+        },
+        {
+            "item_id": "G0O3",
+            "item_name": "Kobra Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/G0O3.png"
+        },
+        {
+            "item_id": "wD7l",
+            "item_name": "Panorama Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/wD7l.png"
+        },
+        {
+            "item_id": "VoNw",
+            "item_name": "Obzor Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/VoNw.png"
+        },
+        {
+            "item_id": "nxD3",
+            "item_name": "Kobra Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/nxD3.png"
+        },
+        {
+            "item_id": "gJX3",
+            "item_name": "PK-AS Collimator Sight",
+            "item_link": "/icons/attachment/collimator_sights/gJX3.png"
+        },
+        {
+            "item_id": "nxYx",
+            "item_name": "Kleshch-2PS Compact Laser Designator",
+            "item_link": "/icons/attachment/other/nxYx.png"
+        },
+        {
+            "item_id": "gJ5w",
+            "item_name": "AN/PEQ 15 Tactical Unit, Khaki",
+            "item_link": "/icons/attachment/other/gJ5w.png"
+        },
+        {
+            "item_id": "0gMb",
+            "item_name": "AN/PEQ 15 Tactical Unit, Black",
+            "item_link": "/icons/attachment/other/0gMb.png"
+        },
+        {
+            "item_id": "N5Kj",
+            "item_name": "AN/PEQ 15 Tactical Unit, Black (Green Laser)",
+            "item_link": "/icons/attachment/other/N5Kj.png"
+        },
+        {
+            "item_id": "DVb9",
+            "item_name": "HQ ISSUE Mini Laser Sight (Green Laser)",
+            "item_link": "/icons/attachment/other/DVb9.png"
+        },
+        {
+            "item_id": "Q8VJ",
+            "item_name": "HQ ISSUE Low-Profile Laser Sight (Red Laser)",
+            "item_link": "/icons/attachment/other/Q8VJ.png"
+        },
+        {
+            "item_id": "BkX2",
+            "item_name": "Noveske KX3 Flash Suppressor",
+            "item_link": "/icons/attachment/barrel/BkX2.png"
+        },
+        {
+            "item_id": "yEjG",
+            "item_name": "Diamondhead Compensator",
+            "item_link": "/icons/attachment/barrel/yEjG.png"
+        },
+        {
+            "item_id": "lze1",
+            "item_name": "Resistance Armament Compensator",
+            "item_link": "/icons/attachment/barrel/lze1.png"
+        },
+        {
+            "item_id": "K5Xe",
+            "item_name": "Hera Arms CC Compensator",
+            "item_link": "/icons/attachment/barrel/K5Xe.png"
+        },
+        {
+            "item_id": "kxw6",
+            "item_name": "LoneWolf Flash Suppressor",
+            "item_link": "/icons/attachment/barrel/kxw6.png"
+        },
+        {
+            "item_id": "3m8G",
+            "item_name": "3 Port Mini Compensator",
+            "item_link": "/icons/attachment/barrel/3m8G.png"
+        },
+        {
+            "item_id": "Vola",
+            "item_name": "VG6 EPSILON 556 Muzzle Brake",
+            "item_link": "/icons/attachment/barrel/Vola.png"
+        },
+        {
+            "item_id": "nxaD",
+            "item_name": "VG6 EPSILON 762 Muzzle Brake",
+            "item_link": "/icons/attachment/barrel/nxaD.png"
+        },
+        {
+            "item_id": "wDjk",
+            "item_name": "D-Eagle Barrel Extension",
+            "item_link": "/icons/attachment/barrel/wDjk.png"
+        },
+        {
+            "item_id": "M7XQ",
+            "item_name": "AKademia T\u2019ma Flash Suppressor",
+            "item_link": "/icons/attachment/barrel/M7XQ.png"
+        },
+        {
+            "item_id": "amPr",
+            "item_name": "Kosoi MBC",
+            "item_link": "/icons/attachment/barrel/amPr.png"
+        },
+        {
+            "item_id": "o7jn",
+            "item_name": "Whirlwind MBC",
+            "item_link": "/icons/attachment/barrel/o7jn.png"
+        },
+        {
+            "item_id": "10Y7",
+            "item_name": "MBC-1",
+            "item_link": "/icons/attachment/barrel/10Y7.png"
+        },
+        {
+            "item_id": "bM35",
+            "item_name": "Citadel 5.45 MBC",
+            "item_link": "/icons/attachment/barrel/bM35.png"
+        },
+        {
+            "item_id": "dJnq",
+            "item_name": "9 mm Barrel Extension",
+            "item_link": "/icons/attachment/barrel/dJnq.png"
+        },
+        {
+            "item_id": "7mYL",
+            "item_name": "ASh-12 Standard Barrel",
+            "item_link": "/icons/attachment/barrel/7mYL.png"
+        },
+        {
+            "item_id": "Vo8a",
+            "item_name": "JS Silencer",
+            "item_link": "/icons/attachment/barrel/Vo8a.png"
+        },
+        {
+            "item_id": "nxmD",
+            "item_name": "Osprey Silencer",
+            "item_link": "/icons/attachment/barrel/nxmD.png"
+        },
+        {
+            "item_id": "gJRX",
+            "item_name": "SCAR-SD Silencer",
+            "item_link": "/icons/attachment/barrel/gJRX.png"
+        },
+        {
+            "item_id": "0gYJ",
+            "item_name": "FA556 Mini Silencer",
+            "item_link": "/icons/attachment/barrel/0gYJ.png"
+        },
+        {
+            "item_id": "Romn",
+            "item_name": "Salvo 12 Silencer",
+            "item_link": "/icons/attachment/barrel/Romn.png"
+        },
+        {
+            "item_id": "2RYz",
+            "item_name": "KAC Style QD Silencer",
+            "item_link": "/icons/attachment/barrel/2RYz.png"
+        },
+        {
+            "item_id": "DVKJ",
+            "item_name": "SureFire SOCOM556-RC2 Silencer",
+            "item_link": "/icons/attachment/barrel/DVKJ.png"
+        },
+        {
+            "item_id": "j7YO",
+            "item_name": "PBS-4",
+            "item_link": "/icons/attachment/barrel/j7YO.png"
+        },
+        {
+            "item_id": "9mgQ",
+            "item_name": "ATG Silencer",
+            "item_link": "/icons/attachment/barrel/9mgQ.png"
+        },
+        {
+            "item_id": "rwnB",
+            "item_name": "Silencer for OTs-14 Groza",
+            "item_link": "/icons/attachment/barrel/rwnB.png"
+        },
+        {
+            "item_id": "XEdO",
+            "item_name": "PSUZV-11TM.12 Imkas",
+            "item_link": "/icons/attachment/barrel/XEdO.png"
+        },
+        {
+            "item_id": "O8dD",
+            "item_name": "ASh-12/MTs-558 Silencer",
+            "item_link": "/icons/attachment/barrel/O8dD.png"
+        },
+        {
+            "item_id": "qeVw",
+            "item_name": "MTs-558 Silencer",
+            "item_link": "/icons/attachment/barrel/qeVw.png"
+        },
+        {
+            "item_id": "Bkmy",
+            "item_name": "Mossberg Stock",
+            "item_link": "/icons/attachment/butt/Bkmy.png"
+        },
+        {
+            "item_id": "K5ax",
+            "item_name": "MP5 Fixed Stock",
+            "item_link": "/icons/attachment/butt/K5ax.png"
+        },
+        {
+            "item_id": "kxB1",
+            "item_name": "M4 Paddle Stock",
+            "item_link": "/icons/attachment/butt/kxB1.png"
+        },
+        {
+            "item_id": "3mln",
+            "item_name": "M4 Lightweight Stock",
+            "item_link": "/icons/attachment/butt/3mln.png"
+        },
+        {
+            "item_id": "Vogx",
+            "item_name": "Izhmash Wooden Stock",
+            "item_link": "/icons/attachment/butt/Vogx.png"
+        },
+        {
+            "item_id": "nxlA",
+            "item_name": "Izhmash Plastic Stock",
+            "item_link": "/icons/attachment/butt/nxlA.png"
+        },
+        {
+            "item_id": "gJMm",
+            "item_name": "Wooden Skeleton Stock",
+            "item_link": "/icons/attachment/butt/gJMm.png"
+        },
+        {
+            "item_id": "0gBq",
+            "item_name": "M4 Buttstock",
+            "item_link": "/icons/attachment/butt/0gBq.png"
+        },
+        {
+            "item_id": "RokO",
+            "item_name": "ZM High Standard AK Stock",
+            "item_link": "/icons/attachment/butt/RokO.png"
+        },
+        {
+            "item_id": "2RlP",
+            "item_name": "APS Stock",
+            "item_link": "/icons/attachment/butt/2RlP.png"
+        },
+        {
+            "item_id": "JAaG",
+            "item_name": "RPD Plastic Stock",
+            "item_link": "/icons/attachment/butt/JAaG.png"
+        },
+        {
+            "item_id": "P8lx",
+            "item_name": "OTs-33 Stock",
+            "item_link": "/icons/attachment/butt/P8lx.png"
+        },
+        {
+            "item_id": "BkRN",
+            "item_name": "5.56 NATO STANAG Clip",
+            "item_link": "/icons/attachment/mag/BkRN.png"
+        },
+        {
+            "item_id": "yEKx",
+            "item_name": "5.56 NATO STANAG Clip",
+            "item_link": "/icons/attachment/mag/yEKx.png"
+        },
+        {
+            "item_id": "lz8K",
+            "item_name": "5.56 NATO PMAG Clip, Khaki",
+            "item_link": "/icons/attachment/mag/lz8K.png"
+        },
+        {
+            "item_id": "K5x8",
+            "item_name": "5.56 NATO PMAG Clip, Black",
+            "item_link": "/icons/attachment/mag/K5x8.png"
+        },
+        {
+            "item_id": "kx1G",
+            "item_name": "5.56 NATO STANAG Clip",
+            "item_link": "/icons/attachment/mag/kx1G.png"
+        },
+        {
+            "item_id": "3mkR",
+            "item_name": "5.56 NATO STANAG Clip",
+            "item_link": "/icons/attachment/mag/3mkR.png"
+        },
+        {
+            "item_id": "VonJ",
+            "item_name": "5.56 NATO Drum Clip, Khaki",
+            "item_link": "/icons/attachment/mag/VonJ.png"
+        },
+        {
+            "item_id": "nx72",
+            "item_name": "5.56 NATO Drum Clip, Black",
+            "item_link": "/icons/attachment/mag/nx72.png"
+        },
+        {
+            "item_id": "gJeG",
+            "item_name": "X-5 Drum Clip",
+            "item_link": "/icons/attachment/mag/gJeG.png"
+        },
+        {
+            "item_id": "0gyQ",
+            "item_name": "AA-12 Drum Clip",
+            "item_link": "/icons/attachment/mag/0gyQ.png"
+        },
+        {
+            "item_id": "RoKb",
+            "item_name": "7.62 NATO PMAG Clip, Khaki",
+            "item_link": "/icons/attachment/mag/RoKb.png"
+        },
+        {
+            "item_id": "2RK7",
+            "item_name": "7.62 NATO PMAG Clip, Black",
+            "item_link": "/icons/attachment/mag/2RK7.png"
+        },
+        {
+            "item_id": "JAo1",
+            "item_name": "5.56 NATO EMAG Drum Clip",
+            "item_link": "/icons/attachment/mag/JAo1.png"
+        },
+        {
+            "item_id": "P8yA",
+            "item_name": "5.56 Pufgun Clip, Black",
+            "item_link": "/icons/attachment/mag/P8yA.png"
+        },
+        {
+            "item_id": "N57N",
+            "item_name": "Browning Extended Clip",
+            "item_link": "/icons/attachment/mag/N57N.png"
+        },
+        {
+            "item_id": "DV8V",
+            "item_name": "Colt Extended Clip",
+            "item_link": "/icons/attachment/mag/DV8V.png"
+        },
+        {
+            "item_id": "Q8l1",
+            "item_name": "Beretta Extended Clip",
+            "item_link": "/icons/attachment/mag/Q8l1.png"
+        },
+        {
+            "item_id": "mxd8",
+            "item_name": "G3/M1A Drum Clip",
+            "item_link": "/icons/attachment/mag/mxd8.png"
+        },
+        {
+            "item_id": "xL0K",
+            "item_name": "40-Ammo EMAG Clip",
+            "item_link": "/icons/attachment/mag/xL0K.png"
+        },
+        {
+            "item_id": "gJaG",
+            "item_name": "5.45 Bakelite Clip",
+            "item_link": "/icons/attachment/mag/gJaG.png"
+        },
+        {
+            "item_id": "0gkQ",
+            "item_name": "5.45 Plastic Clip",
+            "item_link": "/icons/attachment/mag/0gkQ.png"
+        },
+        {
+            "item_id": "Ro3b",
+            "item_name": "5.45 Clip",
+            "item_link": "/icons/attachment/mag/Ro3b.png"
+        },
+        {
+            "item_id": "2RV7",
+            "item_name": "5.45 Drum Clip",
+            "item_link": "/icons/attachment/mag/2RV7.png"
+        },
+        {
+            "item_id": "JAd1",
+            "item_name": "Drum Clip for PM",
+            "item_link": "/icons/attachment/mag/JAd1.png"
+        },
+        {
+            "item_id": "P8KA",
+            "item_name": "Ergonomic Clip for VSS/Val",
+            "item_link": "/icons/attachment/mag/P8KA.png"
+        },
+        {
+            "item_id": "N5yN",
+            "item_name": "SMG-91 Clip",
+            "item_link": "/icons/attachment/mag/N5yN.png"
+        },
+        {
+            "item_id": "DVeV",
+            "item_name": "Kobra Extended Clip",
+            "item_link": "/icons/attachment/mag/DVeV.png"
+        },
+        {
+            "item_id": "Q8k1",
+            "item_name": "SMG-2000 Clip",
+            "item_link": "/icons/attachment/mag/Q8k1.png"
+        },
+        {
+            "item_id": "mxj8",
+            "item_name": "7.62 Plastic Clip",
+            "item_link": "/icons/attachment/mag/mxj8.png"
+        },
+        {
+            "item_id": "61RE",
+            "item_name": "7.62 Bakelite Clip",
+            "item_link": "/icons/attachment/mag/61RE.png"
+        },
+        {
+            "item_id": "xLRK",
+            "item_name": "5.45 PMAG Clip, Black",
+            "item_link": "/icons/attachment/mag/xLRK.png"
+        },
+        {
+            "item_id": "z5JL",
+            "item_name": "PM/PB Extended Clip",
+            "item_link": "/icons/attachment/mag/z5JL.png"
+        },
+        {
+            "item_id": "86J3",
+            "item_name": "Fort-12 Extended Clip",
+            "item_link": "/icons/attachment/mag/86J3.png"
+        },
+        {
+            "item_id": "G0o9",
+            "item_name": "MP-133/MP-153 Clip Extender",
+            "item_link": "/icons/attachment/mag/G0o9.png"
+        },
+        {
+            "item_id": "wD0P",
+            "item_name": "30-Round Clip for VSS/Val",
+            "item_link": "/icons/attachment/mag/wD0P.png"
+        },
+        {
+            "item_id": "ePeJ",
+            "item_name": "OTs-14 Extended Clip",
+            "item_link": "/icons/attachment/mag/ePeJ.png"
+        },
+        {
+            "item_id": "M7Bk",
+            "item_name": "MTs-558 Extended Clip",
+            "item_link": "/icons/attachment/mag/M7Bk.png"
+        },
+        {
+            "item_id": "amzB",
+            "item_name": "PSG1 Extended Clip",
+            "item_link": "/icons/attachment/mag/amzB.png"
+        },
+        {
+            "item_id": "1039",
+            "item_name": "30-Round Clip for AK-308",
+            "item_link": "/icons/attachment/mag/1039.png"
+        },
+        {
+            "item_id": "bM8Z",
+            "item_name": "7.62x39 Drum Clip",
+            "item_link": "/icons/attachment/mag/bM8Z.png"
+        },
+        {
+            "item_id": "Bk9l",
+            "item_name": "Protective Rail, Olive",
+            "item_link": "/icons/attachment/other/Bk9l.png"
+        },
+        {
+            "item_id": "yEz9",
+            "item_name": "Protective Rail, Khaki",
+            "item_link": "/icons/attachment/other/yEz9.png"
+        },
+        {
+            "item_id": "lznO",
+            "item_name": "Protective Rail, Black",
+            "item_link": "/icons/attachment/other/lznO.png"
+        },
+        {
+            "item_id": "K5g5",
+            "item_name": "Compact Protective Rail, Olive",
+            "item_link": "/icons/attachment/other/K5g5.png"
+        },
+        {
+            "item_id": "kxV9",
+            "item_name": "Compact Protective Rail, Khaki",
+            "item_link": "/icons/attachment/other/kxV9.png"
+        },
+        {
+            "item_id": "3m6Z",
+            "item_name": "Compact Protective Rail, Black",
+            "item_link": "/icons/attachment/other/3m6Z.png"
+        },
+        {
+            "item_id": "BkQw",
+            "item_name": "BM Barrel Mount",
+            "item_link": "/icons/attachment/forend/BkQw.png"
+        },
+        {
+            "item_id": "yEXY",
+            "item_name": "RIS Bracket-Rail",
+            "item_link": "/icons/attachment/forend/yEXY.png"
+        },
+        {
+            "item_id": "lzG2",
+            "item_name": "Picatinny Rail and Base",
+            "item_link": "/icons/attachment/forend/lzG2.png"
+        },
+        {
+            "item_id": "K5MK",
+            "item_name": "Side Bracket with Picatinny Rail",
+            "item_link": "/icons/attachment/forend/K5MK.png"
+        },
+        {
+            "item_id": "kx8X",
+            "item_name": "RIS XM8 Rail",
+            "item_link": "/icons/attachment/forend/kx8X.png"
+        },
+        {
+            "item_id": "3myD",
+            "item_name": "Guiding RIS for Shotgun",
+            "item_link": "/icons/attachment/forend/3myD.png"
+        },
+        {
+            "item_id": "Vo52",
+            "item_name": "Clamp with RIS Rail",
+            "item_link": "/icons/attachment/forend/Vo52.png"
+        },
+        {
+            "item_id": "nxea",
+            "item_name": "Clamp with 3 RIS Rails",
+            "item_link": "/icons/attachment/forend/nxea.png"
+        },
+        {
+            "item_id": "0grE",
+            "item_name": "SKS Bracket\u2014Dovetail Joint",
+            "item_link": "/icons/attachment/forend/0grE.png"
+        },
+        {
+            "item_id": "N512",
+            "item_name": "Kochetov Mount for Patriot with Picatinny Rail",
+            "item_link": "/icons/attachment/forend/N512.png"
+        },
+        {
+            "item_id": "DV62",
+            "item_name": "RIS Rail for SMG-91 KEDR",
+            "item_link": "/icons/attachment/forend/DV62.png"
+        },
+        {
+            "item_id": "mxwo",
+            "item_name": "Adaptive RIS Rail for DP",
+            "item_link": "/icons/attachment/forend/mxwo.png"
+        },
+        {
+            "item_id": "61k0",
+            "item_name": "Sight Mount for M16A2",
+            "item_link": "/icons/attachment/forend/61k0.png"
+        },
+        {
+            "item_id": "xLr3",
+            "item_name": "Increasing RIS-Rail",
+            "item_link": "/icons/attachment/forend/xLr3.png"
+        },
+        {
+            "item_id": "z5Bd",
+            "item_name": "Picatinny Rail for SVT",
+            "item_link": "/icons/attachment/forend/z5Bd.png"
+        },
+        {
+            "item_id": "Bk3j",
+            "item_name": "RK-3 Grip",
+            "item_link": "/icons/attachment/pistol_handle/Bk3j.png"
+        },
+        {
+            "item_id": "yEx6",
+            "item_name": "Fab Defense AG-47 Grip, Black",
+            "item_link": "/icons/attachment/pistol_handle/yEx6.png"
+        },
+        {
+            "item_id": "lzVw",
+            "item_name": "Fab Defense AG-47 Grip, Green",
+            "item_link": "/icons/attachment/pistol_handle/lzVw.png"
+        },
+        {
+            "item_id": "K5Nj",
+            "item_name": "Fab Defense AG-47 Grip, Khaki",
+            "item_link": "/icons/attachment/pistol_handle/K5Nj.png"
+        },
+        {
+            "item_id": "VowA",
+            "item_name": "Fab Defense AGR-43 Grip, Black",
+            "item_link": "/icons/attachment/pistol_handle/VowA.png"
+        },
+        {
+            "item_id": "nx59",
+            "item_name": "Fab Defense AGR-43 Grip, Green",
+            "item_link": "/icons/attachment/pistol_handle/nx59.png"
+        },
+        {
+            "item_id": "gJAn",
+            "item_name": "Fab Defense AGR-43 Grip, Khaki",
+            "item_link": "/icons/attachment/pistol_handle/gJAn.png"
+        },
+        {
+            "item_id": "BnNl",
+            "item_name": "Coat",
+            "item_link": "/icons/armor/clothes/BnNl.png"
+        },
+        {
+            "item_id": "yLb9",
+            "item_name": "Coat with Face Covering",
+            "item_link": "/icons/armor/clothes/yLb9.png"
+        },
+        {
+            "item_id": "lYQO",
+            "item_name": "Bandit Coat",
+            "item_link": "/icons/armor/clothes/lYQO.png"
+        },
+        {
+            "item_id": "k9D9",
+            "item_name": "Leather Jacket",
+            "item_link": "/icons/armor/clothes/k9D9.png"
+        },
+        {
+            "item_id": "VqrV",
+            "item_name": "Raincoat",
+            "item_link": "/icons/armor/scientist/VqrV.png"
+        },
+        {
+            "item_id": "nb6M",
+            "item_name": "Coat with Body Armor",
+            "item_link": "/icons/armor/combat/nb6M.png"
+        },
+        {
+            "item_id": "gw2B",
+            "item_name": "Reporter\u2019s Armor",
+            "item_link": "/icons/armor/combat/gw2B.png"
+        },
+        {
+            "item_id": "JQG3",
+            "item_name": "Gorka-3 Suit",
+            "item_link": "/icons/armor/discoverer/JQG3.png"
+        },
+        {
+            "item_id": "xQ1j",
+            "item_name": "Hunter\u2019s Cloak",
+            "item_link": "/icons/armor/combat/xQ1j.png"
+        },
+        {
+            "item_id": "zxdq",
+            "item_name": "Fleece Protective Suit",
+            "item_link": "/icons/armor/combat/zxdq.png"
+        },
+        {
+            "item_id": "8jkn",
+            "item_name": "Hoplite Armored Suit",
+            "item_link": "/icons/armor/combat/8jkn.png"
+        },
+        {
+            "item_id": "GQxw",
+            "item_name": "Trapper Suit",
+            "item_link": "/icons/armor/combat/GQxw.png"
+        },
+        {
+            "item_id": "drgm",
+            "item_name": "IP-4M",
+            "item_link": "/icons/armor/scientist/drgm.png"
+        },
+        {
+            "item_id": "7jK6",
+            "item_name": "Cloak",
+            "item_link": "/icons/armor/combat/7jK6.png"
+        },
+        {
+            "item_id": "jqNN",
+            "item_name": "Bandit Cloak",
+            "item_link": "/icons/armor/combat/jqNN.png"
+        },
+        {
+            "item_id": "9j3O",
+            "item_name": "Zarya Suit",
+            "item_link": "/icons/armor/discoverer/9j3O.png"
+        },
+        {
+            "item_id": "rbG0",
+            "item_name": "Zarya Suit with Gas Mask",
+            "item_link": "/icons/armor/discoverer/rbG0.png"
+        },
+        {
+            "item_id": "XqZk",
+            "item_name": "Zarya-B Suit",
+            "item_link": "/icons/armor/scientist/XqZk.png"
+        },
+        {
+            "item_id": "ZAbr",
+            "item_name": "Tourist Suit",
+            "item_link": "/icons/armor/discoverer/ZAbr.png"
+        },
+        {
+            "item_id": "OL6j",
+            "item_name": "Bandit Suit",
+            "item_link": "/icons/armor/discoverer/OL6j.png"
+        },
+        {
+            "item_id": "qb5L",
+            "item_name": "Bandit Suit with Gas Mask",
+            "item_link": "/icons/armor/discoverer/qb5L.png"
+        },
+        {
+            "item_id": "Yq1A",
+            "item_name": "Bandit Suit with Gas Tanks",
+            "item_link": "/icons/armor/scientist/Yq1A.png"
+        },
+        {
+            "item_id": "AVk2",
+            "item_name": "Kleptomaniac Suit",
+            "item_link": "/icons/armor/discoverer/AVk2.png"
+        },
+        {
+            "item_id": "ERg1",
+            "item_name": "Berill-5M Armored Suit",
+            "item_link": "/icons/armor/combat/ERg1.png"
+        },
+        {
+            "item_id": "LQDm",
+            "item_name": "Worm Armored Suit",
+            "item_link": "/icons/armor/combat/LQDm.png"
+        },
+        {
+            "item_id": "5L9J",
+            "item_name": "Healing Berill",
+            "item_link": "/icons/armor/combat/5L9J.png"
+        },
+        {
+            "item_id": "Bn3l",
+            "item_name": "AH-1 Drifter Suit",
+            "item_link": "/icons/armor/combined/Bn3l.png"
+        },
+        {
+            "item_id": "yLx9",
+            "item_name": "Currant Ghillie Suit",
+            "item_link": "/icons/armor/combat/yLx9.png"
+        },
+        {
+            "item_id": "lYVO",
+            "item_name": "Houndmaster Protective Suit",
+            "item_link": "/icons/armor/combat/lYVO.png"
+        },
+        {
+            "item_id": "KQN5",
+            "item_name": "Scout Suit",
+            "item_link": "/icons/armor/combat/KQN5.png"
+        },
+        {
+            "item_id": "k939",
+            "item_name": "Striker Armored Suit",
+            "item_link": "/icons/armor/combat/k939.png"
+        },
+        {
+            "item_id": "3j7Z",
+            "item_name": "PS-1 Picklock",
+            "item_link": "/icons/armor/combined/3j7Z.png"
+        },
+        {
+            "item_id": "VqMV",
+            "item_name": "SEVA Suit",
+            "item_link": "/icons/armor/scientist/VqMV.png"
+        },
+        {
+            "item_id": "nbgM",
+            "item_name": "REAPER Suit",
+            "item_link": "/icons/armor/scientist/nbgM.png"
+        },
+        {
+            "item_id": "gwyB",
+            "item_name": "Voshod Heavy Armored Suit",
+            "item_link": "/icons/armor/discoverer/gwyB.png"
+        },
+        {
+            "item_id": "0j1N",
+            "item_name": "Thug Heavy Armored Suit",
+            "item_link": "/icons/armor/discoverer/0j1N.png"
+        },
+        {
+            "item_id": "RQ8G",
+            "item_name": "MIS-99 Amber",
+            "item_link": "/icons/armor/scientist/RQ8G.png"
+        },
+        {
+            "item_id": "2jdo",
+            "item_name": "MIS-99 Malachite",
+            "item_link": "/icons/armor/scientist/2jdo.png"
+        },
+        {
+            "item_id": "JQP3",
+            "item_name": "Hawk Armored Suit",
+            "item_link": "/icons/armor/discoverer/JQP3.png"
+        },
+        {
+            "item_id": "PQxn",
+            "item_name": "Mockingbird Armored Suit",
+            "item_link": "/icons/armor/discoverer/PQxn.png"
+        },
+        {
+            "item_id": "NQmA",
+            "item_name": "AH-2 Nomad Suit",
+            "item_link": "/icons/armor/combined/NQmA.png"
+        },
+        {
+            "item_id": "D05a",
+            "item_name": "AH-3 Seeker Suit",
+            "item_link": "/icons/armor/combined/D05a.png"
+        },
+        {
+            "item_id": "Q1zP",
+            "item_name": "MIS-105 Topaz",
+            "item_link": "/icons/armor/scientist/Q1zP.png"
+        },
+        {
+            "item_id": "mbnZ",
+            "item_name": "MIS-113 Iolite",
+            "item_link": "/icons/armor/scientist/mbnZ.png"
+        },
+        {
+            "item_id": "6Xr7",
+            "item_name": "MIS-116 Emerald",
+            "item_link": "/icons/armor/scientist/6Xr7.png"
+        },
+        {
+            "item_id": "xQ6j",
+            "item_name": "MIS-122 Amethyst",
+            "item_link": "/icons/armor/scientist/xQ6j.png"
+        },
+        {
+            "item_id": "8jZn",
+            "item_name": "RAPS AH-4 Raider",
+            "item_link": "/icons/armor/combined/8jZn.png"
+        },
+        {
+            "item_id": "GQRw",
+            "item_name": "RAPS AH-5 Pilgrim",
+            "item_link": "/icons/armor/combined/GQRw.png"
+        },
+        {
+            "item_id": "wQmy",
+            "item_name": "Osh Protective Suit",
+            "item_link": "/icons/armor/combat/wQmy.png"
+        },
+        {
+            "item_id": "ebAG",
+            "item_name": "Jaeger Exoarmor",
+            "item_link": "/icons/armor/combat/ebAG.png"
+        },
+        {
+            "item_id": "awZd",
+            "item_name": "Exoskeleton",
+            "item_link": "/icons/armor/discoverer/awZd.png"
+        },
+        {
+            "item_id": "oO0A",
+            "item_name": "Trump Exoskeleton",
+            "item_link": "/icons/armor/discoverer/oO0A.png"
+        },
+        {
+            "item_id": "7jX6",
+            "item_name": "PSZ-10 Armored Suit",
+            "item_link": "/icons/armor/discoverer/7jX6.png"
+        },
+        {
+            "item_id": "jqkN",
+            "item_name": "Kingpin Armored Suit",
+            "item_link": "/icons/armor/discoverer/jqkN.png"
+        },
+        {
+            "item_id": "rbJ0",
+            "item_name": "Legionnaire Heavy Armored Suit",
+            "item_link": "/icons/armor/combat/rbJ0.png"
+        },
+        {
+            "item_id": "gwrR",
+            "item_name": "Yorsh Protective Armored Suit",
+            "item_link": "/icons/armor/combat/gwrR.png"
+        },
+        {
+            "item_id": "0jRE",
+            "item_name": "RAPS Spanner",
+            "item_link": "/icons/armor/combined/0jRE.png"
+        },
+        {
+            "item_id": "wQww",
+            "item_name": "Ghillie Suit",
+            "item_link": "/icons/armor/combat/wQww.png"
+        },
+        {
+            "item_id": "njGr",
+            "item_name": "CD-2 Armored Suit",
+            "item_link": "/icons/armor/combat/njGr.png"
+        },
+        {
+            "item_id": "BLJj",
+            "item_name": "Improved Hazmat Suit",
+            "item_link": "/icons/armor/scientist/BLJj.png"
+        },
+        {
+            "item_id": "BL7r",
+            "item_name": "Home-made NVG",
+            "item_link": "/icons/armor/device/BL7r.png"
+        },
+        {
+            "item_id": "y805",
+            "item_name": "Night-Vision Goggles",
+            "item_link": "/icons/armor/device/y805.png"
+        },
+        {
+            "item_id": "l6or",
+            "item_name": "2nd Generation NVG",
+            "item_link": "/icons/armor/device/l6or.png"
+        },
+        {
+            "item_id": "kqQN",
+            "item_name": "NVD-11 Export",
+            "item_link": "/icons/armor/device/kqQN.png"
+        },
+        {
+            "item_id": "3Z5l",
+            "item_name": "NVG O1M",
+            "item_link": "/icons/armor/device/3Z5l.png"
+        },
+        {
+            "item_id": "BLoN",
+            "item_name": "Personal First-Aid Kit",
+            "item_link": "/icons/medicine/BLoN.png"
+        },
+        {
+            "item_id": "y8Mx",
+            "item_name": "Scientific First-Aid Kit",
+            "item_link": "/icons/medicine/y8Mx.png"
+        },
+        {
+            "item_id": "l61K",
+            "item_name": "Army First-Aid Kit",
+            "item_link": "/icons/medicine/l61K.png"
+        },
+        {
+            "item_id": "KLG8",
+            "item_name": "Bandage",
+            "item_link": "/icons/medicine/KLG8.png"
+        },
+        {
+            "item_id": "kqyG",
+            "item_name": "Vinca",
+            "item_link": "/icons/medicine/kqyG.png"
+        },
+        {
+            "item_id": "3ZoR",
+            "item_name": "1st Class Antirad",
+            "item_link": "/icons/medicine/3ZoR.png"
+        },
+        {
+            "item_id": "VYeJ",
+            "item_name": "2nd Class Antirad",
+            "item_link": "/icons/medicine/VYeJ.png"
+        },
+        {
+            "item_id": "njk2",
+            "item_name": "3rd Class Antirad",
+            "item_link": "/icons/medicine/njk2.png"
+        },
+        {
+            "item_id": "gD7G",
+            "item_name": "2nd Class Psy-Blocker",
+            "item_link": "/icons/medicine/gD7G.png"
+        },
+        {
+            "item_id": "0bLQ",
+            "item_name": "2nd Class Antidote",
+            "item_link": "/icons/medicine/0bLQ.png"
+        },
+        {
+            "item_id": "RYeb",
+            "item_name": "2nd Class ThermoBlock",
+            "item_link": "/icons/medicine/RYeb.png"
+        },
+        {
+            "item_id": "2Zo7",
+            "item_name": "Jiden EXTRA Energy Drink",
+            "item_link": "/icons/medicine/2Zo7.png"
+        },
+        {
+            "item_id": "JLZ1",
+            "item_name": "\u201cHercules\u201d",
+            "item_link": "/icons/medicine/JLZ1.png"
+        },
+        {
+            "item_id": "m858",
+            "item_name": "Morphine",
+            "item_link": "/icons/medicine/m858.png"
+        },
+        {
+            "item_id": "6ZzE",
+            "item_name": "Epinephrine",
+            "item_link": "/icons/medicine/6ZzE.png"
+        },
+        {
+            "item_id": "x8NK",
+            "item_name": "\u201cClearMind+\u201d",
+            "item_link": "/icons/medicine/x8NK.png"
+        },
+        {
+            "item_id": "8EM3",
+            "item_name": "Vodka",
+            "item_link": "/icons/medicine/8EM3.png"
+        },
+        {
+            "item_id": "GLj9",
+            "item_name": "Guide\u2019s First-Aid Kit",
+            "item_link": "/icons/medicine/GLj9.png"
+        },
+        {
+            "item_id": "w8PP",
+            "item_name": "\u201cSTRIKE\u201d",
+            "item_link": "/icons/medicine/w8PP.png"
+        },
+        {
+            "item_id": "MYek",
+            "item_name": "\u201cAstrixin\u201d",
+            "item_link": "/icons/medicine/MYek.png"
+        },
+        {
+            "item_id": "a97B",
+            "item_name": "ATLAS Anabolic Steroid",
+            "item_link": "/icons/medicine/a97B.png"
+        },
+        {
+            "item_id": "9L5g",
+            "item_name": "3rd Class Psy-Blocker",
+            "item_link": "/icons/medicine/9L5g.png"
+        },
+        {
+            "item_id": "rDgV",
+            "item_name": "1st Class Antidote",
+            "item_link": "/icons/medicine/rDgV.png"
+        },
+        {
+            "item_id": "XYXy",
+            "item_name": "3rd Class Antidote",
+            "item_link": "/icons/medicine/XYXy.png"
+        },
+        {
+            "item_id": "Zz72",
+            "item_name": "1st Class ThermoBlock",
+            "item_link": "/icons/medicine/Zz72.png"
+        },
+        {
+            "item_id": "OYel",
+            "item_name": "3rd Class ThermoBlock",
+            "item_link": "/icons/medicine/OYel.png"
+        },
+        {
+            "item_id": "qDnJ",
+            "item_name": "1st Class Psy-Blocker",
+            "item_link": "/icons/medicine/qDnJ.png"
+        },
+        {
+            "item_id": "yd96",
+            "item_name": "Mobile Camp",
+            "item_link": "/icons/backpack/yd96.png"
+        }
+    ],
+    "item_id": "yd96"
+}

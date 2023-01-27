@@ -1,0 +1,99 @@
+{
+    "logs": [
+        {
+            "guild_id": 563586646423896080,
+            "guild_name": "Bots Stuff IDK",
+            "channel_id": 563586646423896088,
+            "user_id": "NobleSavage#5130",
+            "command_data": {
+                "type": 1,
+                "options": [
+                    {
+                        "value": "RU",
+                        "type": 3,
+                        "name": "region"
+                    }
+                ],
+                "name": "emission",
+                "id": "1068374986437439588"
+            },
+            "time_run": "2023-01-27 14:02:31.644198"
+        },
+        {
+            "guild_id": 563586646423896080,
+            "guild_name": "Bots Stuff IDK",
+            "channel_id": 563586646423896088,
+            "user_id": "NobleSavage#5130",
+            "command_data": {
+                "type": 1,
+                "options": [
+                    {
+                        "value": "NA",
+                        "type": 3,
+                        "name": "region"
+                    }
+                ],
+                "name": "emission",
+                "id": "1068374986437439588"
+            },
+            "time_run": "2023-01-27 14:09:54.483078"
+        },
+        {
+            "guild_id": 563586646423896080,
+            "guild_name": "Bots Stuff IDK",
+            "channel_id": 563586646423896088,
+            "user_id": "NobleSavage#5130",
+            "command_data": {
+                "type": 1,
+                "options": [
+                    {
+                        "value": "EU",
+                        "type": 3,
+                        "name": "region"
+                    }
+                ],
+                "name": "emission",
+                "id": "1068374986437439588"
+            },
+            "time_run": "2023-01-27 14:10:02.322487"
+        },
+        {
+            "guild_id": 563586646423896080,
+            "guild_name": "Bots Stuff IDK",
+            "channel_id": 563586646423896088,
+            "user_id": "NobleSavage#5130",
+            "command_data": {
+                "type": 1,
+                "options": [
+                    {
+                        "value": "RU",
+                        "type": 3,
+                        "name": "region"
+                    }
+                ],
+                "name": "emission",
+                "id": "1068374986437439588"
+            },
+            "time_run": "2023-01-27 14:10:09.276753"
+        },
+        {
+            "guild_id": 563586646423896080,
+            "guild_name": "Bots Stuff IDK",
+            "channel_id": 563586646423896088,
+            "user_id": "NobleSavage#5130",
+            "command_data": {
+                "type": 1,
+                "options": [
+                    {
+                        "value": "SEA",
+                        "type": 3,
+                        "name": "region"
+                    }
+                ],
+                "name": "emission",
+                "id": "1068374986437439588"
+            },
+            "time_run": "2023-01-27 14:10:15.785797"
+        }
+    ]
+}
