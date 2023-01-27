@@ -22,7 +22,8 @@ cogs_list = [
     'emission',
     'emission_checker',
     'alerts',
-    'logging'
+    'logging',
+    'help'
 ]
 
 for cog in cogs_list:
