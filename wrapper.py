@@ -2,6 +2,7 @@
 import aiohttp
 import asyncio
 import requests
+import json
 
 #Auth file containing the client_id and client_secret (this should be provided by the telegram bot)
 import auth
@@ -37,7 +38,7 @@ async def get_auction_history(region,item_id):
 #Gets the current lots of an item and gives back a Json Object https://eapi.stalcraft.net/reference#/paths/~1%7Bregion%7D~1auction~1%7Bitem%7D~1lots/get
 async def get_auction_lots(region,item_id):
     async with aiohttp.ClientSession() as session:
-        url = f'https://eapi.stalcraft.net/{region}/auction/{item_id}/lots'
+        url = f'https://eapi.stalcraft.net/{region}/auction/{item_id}/lots?additional=true'
         async with session.get(url, headers = {"Authorization": f"Bearer {AppAuth}"}) as response:
             response = await response.json()
         return response
