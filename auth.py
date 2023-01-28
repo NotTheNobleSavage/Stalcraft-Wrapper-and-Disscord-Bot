@@ -4,4 +4,4 @@ client_id = "asd"
 client_secret = "asd"
 
 #Discord Bot
-token="asd"
+token="asdasdasdasd"
