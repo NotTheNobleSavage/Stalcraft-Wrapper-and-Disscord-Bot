@@ -4,8 +4,9 @@ Just a simple python wrapper and a discord bot that checks when the last emissio
 ## Hosting Instructions ##
 1) git clone https://github.com/NotTheNobleSavage/Stalcraft-Wrapper-and-Disscord-Bot.git
 2) pip install -r requirements.txt
-3) copy your discord auth and token stalcraft auth to the auth.py
-3) python3 bot.py
+3) Rename auth_example.py to auth.py
+4) copy your discord auth and token stalcraft auth to the auth.py
+5) python3 bot.py
 
 ## Lazy People ##
 just invite the public bot to your server.
