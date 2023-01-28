@@ -2,7 +2,7 @@ import discord
 import auth
 import json
 
-bot = discord.Bot()
+bot = discord.Bot(intents=discord.Intents.all())
 
 @bot.event
 async def on_ready():
@@ -23,7 +23,9 @@ cogs_list = [
     'emission_checker',
     'alerts',
     'logging',
-    'help'
+    'help',
+    'current_lots',
+    'clan'
 ]
 
 for cog in cogs_list:
