@@ -1,7 +1,7 @@
 #Client ID
-client_id = ""
+client_id = "asd"
 #Client Secret
-client_secret = ""
+client_secret = "asd"
 
 #Discord Bot
-token=""
+token="asd"
