@@ -37,7 +37,8 @@ class Players(commands.Cog):
         Deaths from Anomalies: {[x['value'] for x in player['stats'] if x['id'] == 'ano-dea'][0]}
         Longest Killstreak: {[x['value'] for x in player['stats'] if x['id'] == 'max-kil-ser'][0]}
         Shots Fired: {[x['value'] for x in player['stats'] if x['id'] == 'sho-fir'][0]}
-        Shots Hit: {[x['value'] for x in player['stats'] if x['id'] == 'sho-hit'][0]}
+        Bolts thrown: {[x['value'] for x in player['stats'] if x['id'] == 'scr-thr'][0]}
+        Quests completed: {[x['value'] for x in player['stats'] if x['id'] == 'que-fin'][0]}
         """, inline=False)
         await ctx.respond(embed=embed)  
 
