@@ -63,4 +63,11 @@ async def get_clan_list(region):
         async with session.get(url, headers = {"Authorization": f"Bearer {AppAuth}"}) as response:
             response = await response.json()
         return response
+
+async def get_player_profile(region,character):
+    async with aiohttp.ClientSession() as session:
+        url = f'https://eapi.stalcraft.net/{region}/character/by-name/{character}/profile'
+        async with session.get(url, headers = {"Authorization": f"Bearer {AppAuth}"}) as response:
+            response = await response.json()
+        return response
 #Sorry i have no clue how to get my UserAuth for some reason steam logging bugs it out but using the above code you can add it down here if you want
