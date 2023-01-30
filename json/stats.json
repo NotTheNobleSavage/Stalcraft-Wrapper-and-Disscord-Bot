@@ -1165,7 +1165,10 @@
     "type": "INTEGER",
     "name": {
       "type": "text",
-      "text": ""
+      "text": "",
+      "lines": {
+        "en": "Base Capture Amount"
+      }
     }
   },
   {
@@ -1174,7 +1177,10 @@
     "type": "DURATION",
     "name": {
       "type": "text",
-      "text": ""
+      "text": "",
+      "lines": {
+        "en": "Base Capture Time"
+      }
     }
   },
   {
@@ -1183,7 +1189,10 @@
     "type": "INTEGER",
     "name": {
       "type": "text",
-      "text": ""
+      "text": "",
+      "lines": {
+        "en": "Base Defense Amount"
+      }
     }
   },
   {
@@ -1192,7 +1201,10 @@
     "type": "DURATION",
     "name": {
       "type": "text",
-      "text": ""
+      "text": "",
+      "lines": {
+        "en": "Base Defense Time"
+      }
     }
   },
   {
@@ -1201,7 +1213,10 @@
     "type": "DATE",
     "name": {
       "type": "text",
-      "text": ""
+      "text": "",
+      "lines": {
+        "en": "Date of Guild Join"
+      }
     }
   },
   {
