@@ -57,9 +57,9 @@ async def get_clan_info(region,clan_id):
             response = await response.json()
         return response
 #Lists all the clans in a region and again returns a Json Object
-async def get_clan_list(region):
+async def get_clan_list(region,offset):
     async with aiohttp.ClientSession() as session:
-        url = f'https://eapi.stalcraft.net/{region}/clans'
+        url = f'https://eapi.stalcraft.net/{region}/clans?limit=100&offset={offset}'
         async with session.get(url, headers = {"Authorization": f"Bearer {AppAuth}"}) as response:
             response = await response.json()
         return response

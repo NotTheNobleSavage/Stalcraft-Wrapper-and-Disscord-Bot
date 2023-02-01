@@ -24,7 +24,7 @@ class Clan(commands.Cog):
             await ctx.respond(embed=embed)
             return
 
-        clans = await wrapper.get_clan_list(region)
+        clans = await wrapper.get_clan_list(region,0)
 
         if clans['totalClans'] == 0:
             embed=discord.Embed(title="Stalcraft Clans", description="No Clans Found")
