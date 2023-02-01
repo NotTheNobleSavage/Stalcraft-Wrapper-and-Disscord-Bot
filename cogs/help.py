@@ -16,7 +16,9 @@ class Help(commands.Cog):
         ** /remove_alert region: ** \n This command is used to remove an alert for region specified in the current channel. \n
         ** /help ** \n This can be used to run this command and view help info.\n
         ** /clans region: ** \n Used to view all the clans in the current regions, only works in RU right now. \n
-        ** /current_lots item_name:, region: ** \n Can be used to find the current auctions for the item specified in the region.
+        ** /current_lots item_name:, region: ** \n Can be used to find the current auctions for the item specified in the region. \n
+        ** /get_player region: player_name: ** \n Is used to view stats about a player.
+        ** /players_compare region:, player_name:, region2:, player_name2:, ** \n Used to compare 2 different players.
         """)
         await ctx.respond(embed=embed)
         return            
