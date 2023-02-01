@@ -46,13 +46,13 @@ class Players_Compare(commands.Cog):
                 if stats['id'] == ids['id']:
                     stats.update({'name':ids['name']['lines']['en']})
         
-        kills = [[x['value'] for x in player1['stats'] if x['id'] == 'kil'][0], [x['value'] for x in player2['stats'] if x['id'] == 'kil'][0]]
-        headshots = [[x['value'] for x in player1['stats'] if x['id'] == 'sho-hea'][0], [x['value'] for x in player2['stats'] if x['id'] == 'sho-hea'][0]]
-        deaths = [[x['value'] for x in player1['stats'] if x['id'] == 'ano-dea'][0], [x['value'] for x in player2['stats'] if x['id'] == 'ano-dea'][0]]
-        killstreak = [[x['value'] for x in player1['stats'] if x['id'] == 'max-kil-ser'][0], [x['value'] for x in player2['stats'] if x['id'] == 'max-kil-ser'][0]]
-        shots_fired = [[x['value'] for x in player1['stats'] if x['id'] == 'sho-fir'][0], [x['value'] for x in player2['stats'] if x['id'] == 'sho-fir'][0]]
-        bols_thrown = [[x['value'] for x in player1['stats'] if x['id'] == 'scr-thr'][0], [x['value'] for x in player2['stats'] if x['id'] == 'scr-thr'][0]]
-        quests = [[x['value'] for x in player1['stats'] if x['id'] == 'que-fin'][0], [x['value'] for x in player2['stats'] if x['id'] == 'que-fin'][0]]
+        kills = [next([x['value'] for x in player1['stats'] if x['id'] == 'kil'],0), next([x['value'] for x in player2['stats'] if x['id'] == 'kil'],0)]
+        headshots = [next([x['value'] for x in player1['stats'] if x['id'] == 'sho-hea'],0), next([x['value'] for x in player2['stats'] if x['id'] == 'sho-hea'],0)]
+        deaths = [next([x['value'] for x in player1['stats'] if x['id'] == 'ano-dea'],0), next([x['value'] for x in player2['stats'] if x['id'] == 'ano-dea'],0)]
+        killstreak = [next([x['value'] for x in player1['stats'] if x['id'] == 'max-kil-ser'],0), next([x['value'] for x in player2['stats'] if x['id'] == 'max-kil-ser'],0)]
+        shots_fired = [next([x['value'] for x in player1['stats'] if x['id'] == 'sho-fir'],0), next([x['value'] for x in player2['stats'] if x['id'] == 'sho-fir'],0)]
+        bols_thrown = [next([x['value'] for x in player1['stats'] if x['id'] == 'scr-thr'],0), next([x['value'] for x in player2['stats'] if x['id'] == 'scr-thr'],0)]
+        quests = [next([x['value'] for x in player1['stats'] if x['id'] == 'que-fin'],0), next([x['value'] for x in player2['stats'] if x['id'] == 'que-fin'],0)]
 
         embed=discord.Embed(title="Stalcraft Compare Players", description=f"""
         Comparing:
