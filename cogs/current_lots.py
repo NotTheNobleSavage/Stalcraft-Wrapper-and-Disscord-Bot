@@ -25,18 +25,18 @@ class Current_Lots(commands.Cog):
             await ctx.respond(embed=embed)
             return
 
-        with open('json/items.json') as fp:
+        with open('json/items.json', encoding='utf8') as fp:
             listObj = json.load(fp)
-            for items in listObj['items']:
-                if items['item_name'].upper() == item_name.upper():
-                    lots = await wrapper.get_auction_lots(region,items['item_id'])
-                    lots.update({"item_name": items['item_name'],"item_link" : items['item_link']})
+        matched_items = [item for item in listObj if item_name.upper() in item["name"]["lines"]["ru"].upper() or item_name.upper() in item["name"]["lines"]["en"].upper()]
 
-        if not any(item_name in item['item_name'] for item in listObj['items']):
+        if not matched_items:
             embed=discord.Embed(title="Stalcraft Market", description="The item you have enterd is invalid")
             await ctx.respond(embed=embed)
             return
 
+        item_id = matched_items[0]['data'].split("/")[-1][:-5]
+        lots = await wrapper.get_auction_lots(region,item_id)
+        lots.update({"item_name": item_name,"item_link" : matched_items[0]['icon']})
 
         if lots['total'] == 0:
             embed=discord.Embed(title="Stalcraft Market", description="No Lots has been found")
