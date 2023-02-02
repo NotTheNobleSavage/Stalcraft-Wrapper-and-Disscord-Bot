@@ -31,14 +31,14 @@ async def get_regions():
 #Can be giving extra query params such as offset and limit 
 async def get_auction_history(region,item_id):
     async with aiohttp.ClientSession() as session:
-        url = f'https://eapi.stalcraft.net/{region}/auction/{item_id}/history'
+        url = f'https://eapi.stalcraft.net/{region}/auction/{item_id}/history?additional=true'
         async with session.get(url, headers = {"Authorization": f"Bearer {AppAuth}"}) as response:
             response = await response.json()
         return response
 #Gets the current lots of an item and gives back a Json Object https://eapi.stalcraft.net/reference#/paths/~1%7Bregion%7D~1auction~1%7Bitem%7D~1lots/get
 async def get_auction_lots(region,item_id):
     async with aiohttp.ClientSession() as session:
-        url = f'https://eapi.stalcraft.net/{region}/auction/{item_id}/lots?additional=true'
+        url = f'https://eapi.stalcraft.net/{region}/auction/{item_id}/lots?additional=true&order=desc&sort=buyout_price'
         async with session.get(url, headers = {"Authorization": f"Bearer {AppAuth}"}) as response:
             response = await response.json()
         return response
