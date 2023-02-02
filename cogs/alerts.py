@@ -63,7 +63,7 @@ class Alerts(commands.Cog):
         with open('json/server_config.json') as fp:
             listObj = json.load(fp)
 
-        matching_servers = [server['region'] for server in listObj['servers'] if server['guild_id'] == ctx.guild_id]
+        matching_servers = [server['region'] for server in listObj['servers'] if server['guild_id'] == ctx.guild_id and server['alert_channel'] == ctx.channel_id]
         #Checks
         #Check for permission
         if not ctx.user.guild_permissions.administrator:
