@@ -26,10 +26,11 @@ class Emission_checker(commands.Cog):
                 for server in server_options['servers']:
                     if server['region'] == region or server['region'] == 'ALL':
                         channel = self.bot.get_channel(int(server['alert_channel']))
-                        embed = discord.Embed(title="Emission Checker", description=f"A Emission is occurring in: {region}")
-                        embed.add_field(name="Start of Emission", value=f"<t:{int(emission_timestamp)}>", inline=True)
-                        embed.set_footer(text="Powered by NobleNet")
-                        await channel.send(embed=embed)
+                        if channel != None:
+                            embed = discord.Embed(title="Emission Checker", description=f"A Emission is occurring in: {region}")
+                            embed.add_field(name="Start of Emission", value=f"<t:{int(emission_timestamp)}>", inline=True)
+                            embed.set_footer(text="Powered by NobleNet")
+                            await channel.send(embed=embed)
 
     @commands.Cog.listener()
     async def on_ready(self): # this is called when a member joins the server     
