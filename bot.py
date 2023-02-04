@@ -27,7 +27,7 @@ cogs_list = [
     'current_lots',
     'clan',
     'player',
-    'pages'
+    'everyone'
 ]
 
 for cog in cogs_list:
