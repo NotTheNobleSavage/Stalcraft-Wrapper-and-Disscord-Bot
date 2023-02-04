@@ -30,7 +30,10 @@ class Emission_checker(commands.Cog):
                             embed = discord.Embed(title="Emission Checker", description=f"A Emission is occurring in: {region}")
                             embed.add_field(name="Start of Emission", value=f"<t:{int(emission_timestamp)}>", inline=True)
                             embed.set_footer(text="Powered by NobleNet")
-                            await channel.send(embed=embed)
+                            try:
+                                await channel.send(embed=embed)
+                            except discord.Forbidden:
+                                print(f"cant send msg in {channel}")
 
     @commands.Cog.listener()
     async def on_ready(self): # this is called when a member joins the server     
