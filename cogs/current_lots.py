@@ -25,8 +25,8 @@ class Current_Lots(commands.Cog):
             embed = discord.Embed(title="Stalcraft Market",description=f"Name: {item_name+' +'+str(lot['additional'].get('ptn')) if lot['additional'].get('ptn') else item_name}")
             embed.add_field(name="Information:", value = f"""
             Quality: {self.quality[lot.get('qlt',0)]}
-            Start Price: {lot['startPrice']}
-            Buyout Price: {lot['buyoutPrice']}
+            Start Price: {lot['startPrice']:,}
+            Buyout Price: {lot['buyoutPrice']:,}
             Start Time: <t:{int(startTime)}>
             End Time: <t:{int(endTime)}>
             """)
