@@ -1,7 +1,6 @@
 import discord
 from discord.ext import commands
 from datetime import datetime, timezone
-from discord.ui import View, Button
 from discord.ext import commands, pages
 import json
 import wrapper
@@ -38,7 +37,7 @@ class Current_Lots(commands.Cog):
 
     @discord.slash_command(description="Views all the current lots for the item in the region")
     #Gets the region that you want (we love all regions here not just NA)
-    async def current_lots(self,ctx, item_name: discord.Option(str),region: discord.Option(str, choice = ["RU","SEA","NA","EU"])):
+    async def current_lots(self,ctx, item_name: discord.Option(str),region: discord.Option(str, choices = ["RU","SEA","NA","EU"])):
 
         with open('json/items.json', encoding='utf8') as fp:
             listObj = json.load(fp)

@@ -5,6 +5,7 @@ import wrapper
 import asyncio
 import json
 import os
+from discord.ext import tasks
 
 class Emission_checker(commands.Cog):
 
@@ -12,7 +13,9 @@ class Emission_checker(commands.Cog):
         self.bot = bot
         self.regions = ["RU","EU","NA","SEA","ALL"]
         self.emission_times = {region: None for region in self.regions}
+        self.check_for_emissions.start()
 
+    @tasks.loop(seconds=5)
     async def check_for_emissions(self):
         with open(os.path.normpath('json/server_config.json'), encoding='utf8') as config_file:
             server_options = json.load(config_file)
@@ -34,12 +37,6 @@ class Emission_checker(commands.Cog):
                                 await channel.send(embed=embed)
                             except discord.Forbidden:
                                 print(f"cant send msg in {channel}")
-
-    @commands.Cog.listener()
-    async def on_ready(self): # this is called when a member joins the server     
-        while True:
-            await self.check_for_emissions()
-            await asyncio.sleep(10)
-
+    
 def setup(bot):
     bot.add_cog(Emission_checker(bot))
